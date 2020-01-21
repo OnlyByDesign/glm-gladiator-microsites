@@ -1,0 +1,730 @@
+/*
+Theme Name: Wp Haswell
+Theme URI: https://themeforest.net/item/haswell-multipurpose-one-multi-page-wp-theme-/12785566?s_rank=2
+Author: Redexp
+Author URI: http://themeforest.net/user/redexp
+Description: The 2016 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background.
+Version: 1.1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, right-sidebar, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready, accessibility-ready
+Text Domain: wp_haswell
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+/************ GLM: CUSTOM HEADER  ****************/
+
+.cms-header-sticky { margin-top:0px !important; }
+
+#page { margin-top:130px; }
+.mobile-logo { display:none; }
+.header-wrap { position:fixed;top:0;left:0;z-index:1;width:100%;background-color:#fff; }
+.fixed-header-wrap { position:fixed;top:0;left:0;z-index:1;width:100%;background-color:#fff; }
+.fixed-header-wrap #top-logo { max-height:40px;
+	    -webkit-transition: all 0.1s; /* For Safari 3.1 to 6.0 */
+    transition: all 0.8s ease 0.2s; }
+.fixed-header-wrap .custom-header { padding:10px 0 10px 0; }
+
+
+.custom-header { width:100%;background-color:#fff;display:inline-block;border-bottom:1px solid #cdcdcd;padding:25px 0 25px 0; }
+.custom-header .left { width:40%;float:left;text-align:right;padding-right:10%; }
+.custom-header .left .fa-bars { margin-right:15px; }
+.custom-header .left a { color:#555; }
+.custom-header .left a:hover { color:#99fc67; }
+.custom-header .middle { width:20%;float:left;text-align:center; }
+#top-logo { max-height:150px;  
+	-webkit-transition: all 0.1s; /* For Safari 3.1 to 6.0 */
+    transition: all 0.8s ease 0.2s; }
+.custom-header .right { width:40%;float:left;text-align:left;padding-left:10%;font-weight:700;font-family:Lato;font-size:22px; }
+.custom-header .right .fa-phone { margin-right:15px;color:#339900;font-size:27px; }
+
+.custom-top-menu { width:100%;text-align:center;background-color:#fff;display:inline-block; }
+.fixed-header-wrap .custom-top-menu { border-bottom:3px solid #339900; }
+.custom-top-menu .jgl-top-nav { width:100%;text-align:center; }
+.custom-top-menu .main-navigation .menu-main-menu { display:inline-block; }
+.custom-top-menu .main-navigation .menu-main-menu li { padding:0 25px; }
+.custom-top-menu .main-navigation .menu-main-menu li a { color:#339900;text-transform:uppercase;font-size:14px;font-weight:300;font-family:Lato;padding:0; }
+
+
+@media screen and (max-width: 800px) {
+	#page { margin-top:110px; }
+	.mobile-logo { display:inline-block;width:100%;text-align:center; }
+	.custom-header .middle { display:none;width:0; }
+	.custom-header .left { width:30%;text-align:center;padding:0; }
+	.custom-header .right { width:70%;text-align:center;padding:0; }
+	.fixed-header-wrap .custom-header { border-bottom:3px solid #339900; }
+	.custom-top-menu { display:none; }
+}
+
+
+
+/************ GLM: TOP NAVIGATION DROP DOWNS  ****************/
+
+#cshero-header-navigation .main-navigation .menu-main-menu > li > a { line-height:20px !important; }
+#cshero-header-navigation .main-navigation .menu-main-menu > li > a { font-size: 15px !important; font-weight: bold !important;  }
+#cshero-header-navigation .main-navigation .menu-main-menu > li > a:hover {color:#cccccc !important;}
+.main-navigation .menu-main-menu > li:hover > a, .main-navigation .menu-main-menu > li.current-menu-item > a {color: #cccccc !important;}
+#custom_html-2 { margin-bottom:0px; }
+
+.dd-pa ul.sub-menu { padding-bottom:50px !important;height:auto !important;background-color:#339900 !important; }
+
+.dd-pa ul.sub-menu li a { font-size:15px;text-transform:lowercase !important;color:#999;font-family: 'Libre Baskerville', serif !important;padding:20px 0 20px 0 !important;border-bottom:1px solid #525f4e;text-decoration:none; }
+
+.dd-pa ul.sub-menu li a:hover { color:#d8fec5 !important;margin-left:10px !important; }
+
+.dd-pa .sub-menu .spacer { height:3px;width:40%;background-color:#ff5722;margin: 15px auto; }
+
+.services-dd { display:inline-block;width:100%; }
+.services-dd .left-column { width:33.33%;float:left;padding-right:50px;padding-top:30px; }
+.services-dd .middle-column { width:33.33%;float:left;padding-right:50px;padding-top:30px; }
+.services-dd .right-column { width:33.33%;float:left;padding-right:50px;padding-top:30px; }
+.services-dd .left-column a, .services-dd .middle-column a, .services-dd .right-column a { color:#fff !important;font-style:italic !important;font-size:18px !important;font-weight:300 !important;margin-bottom:10px !important;padding-bottom:10px !important;border-bottom:1px solid #99fc67 !important; }
+
+
+/************ GLM: MAIN MENU FLYOUT  ****************/
+
+.flyout-contact { text-align:center;font-family:Fira Sans;font-size:16px;line-height:32px;margin-top:70px; }
+.flyout-contact .phone { font-size:26px;font-weight:500; }
+
+
+
+
+/************ GLM: HOMEPAGE RESULTS  ****************/
+
+.home-result { text-align:center;padding-top:30px;border-top:2px solid #205e00;padding-bottom:30px;border-bottom:2px solid #205e00; }
+.home-result h3 { color:#fff;font-weight:700;font-size:52px;font-family:Fira Sans;	-webkit-transition: all 0.1s; /* For Safari 3.1 to 6.0 */
+    transition: all 0.3s ease 0.1s; }
+.home-result h3 span { color:#fff;font-weight:300;font-size:20px;letter-spacing:1px;font-family:Lato;	-webkit-transition: all 0.1s; /* For Safari 3.1 to 6.0 */
+    transition: all 0.3s ease 0.1s; }
+.home-result h6 { color:#fff;font-weight:300;font-size:15px;letter-spacing:1px;font-family:Lato;text-transform:uppercase; }
+.home-result .separator-green { height:3px;width:100px;background-color:#85e852;margin:auto; }
+
+
+.result-1:hover h3, .result-2:hover h3, .result-3:hover h3 { font-size:60px; }
+.result-1:hover h3 span, .result-2:hover h3 span, .result-3:hover h3 span { font-size:28px; }
+
+
+/************ GLM: HOMEPAGE PRACTICE AREA TILES  ****************/
+
+.pa-tile { width:100%;height:100%;background-position:center center;min-height:250px;background-size:cover;cursor:pointer; }
+.pa-tile .overlay-green { background-color: rgba(103, 253, 138, 0.2);width:100%;min-height:300px;text-align:center;padding-top:25%;transition: all 0.5s ease-in-out; }
+.pa-tile .overlay-green:hover { background-color: rgba(51, 153, 0, 0.0);width:100%;min-height:300px; }
+.pa-tile .overlay-green .pa-btn { display:none; }
+.pa-tile .overlay-green:hover .pa-btn { display:inline-block; }
+.pa-tile .overlay-green .pa-btn a { border:2px solid #fff;padding:15px 25px;background-color:#333;text-transform:uppercase;color:#fff;font-weight:400;font-size:14px;letter-spacing:1px;transition: all 0.5s ease-in-out; }
+.pa-tile .overlay-green .pa-btn a:hover { background-color:#339900; }
+
+.pa-tile .overlay-dark-green { background-color: rgba(174, 238, 181, 0.5);width:100%;min-height:300px;text-align:center;padding-top:25%;transition: all 0.5s ease-in-out; }
+.pa-tile .overlay-dark-green:hover { background-color: rgba(161, 204, 147, 0.2);width:100%;min-height:300px; }
+.pa-tile .overlay-dark-green .pa-btn { display:none; }
+.pa-tile .overlay-dark-green:hover .pa-btn { display:inline-block; }
+.pa-tile .overlay-dark-green .pa-btn a { border:2px solid #fff;padding:15px 25px;background-color:#333;text-transform:uppercase;color:#fff;font-weight:400;font-size:14px;letter-spacing:1px;transition: all 0.5s ease-in-out; }
+.pa-tile .overlay-dark-green .pa-btn a:hover { background-color:#339900; }
+
+.pa-tile .overlay-light-green { background-color: rgba(189, 253, 157, 0.2);width:100%;min-height:300px;text-align:center;padding-top:25%;transition: all 0.5s ease-in-out; }
+.pa-tile .overlay-light-green:hover { background-color: rgba(189, 253, 157, 0.4);width:100%;min-height:300px; }
+.pa-tile .overlay-light-green .pa-btn { display:none; }
+.pa-tile .overlay-light-green:hover .pa-btn { display:inline-block; }
+.pa-tile .overlay-light-green .pa-btn a { border:2px solid #fff;padding:15px 25px;background-color:#333;text-transform:uppercase;color:#fff;font-weight:400;font-size:14px;letter-spacing:1px;transition: all 0.5s ease-in-out; }
+.pa-tile .overlay-light-green .pa-btn a:hover { background-color:#339900; }
+
+.pa-tile .overlay-white { background-color: rgba(255, 255, 255, 0.4);width:100%;min-height:300px;text-align:center;padding-top:25%;transition: all 0.5s ease-in-out; }
+.pa-tile .overlay-white:hover { background-color: rgba(255, 255, 255, 0.1);width:100%;min-height:300px; }
+.pa-tile .overlay-white .pa-btn { display:none; }
+.pa-tile .overlay-white:hover .pa-btn { display:inline-block; }
+.pa-tile .overlay-white .pa-btn a { border:2px solid #fff;padding:15px 25px;background-color:#333;text-transform:uppercase;color:#fff;font-weight:400;font-size:14px;letter-spacing:1px;transition: all 0.5s ease-in-out; }
+.pa-tile .overlay-white .pa-btn a:hover { background-color:#339900; }
+
+
+/************ GLM: HOMEPAGE TESTIMONIAL STYLING  ****************/
+
+.testimonial-2 p { text-align:center !important;font-style: italic !important;font-size:26px !important;line-height:37px !important;padding-top:75px; }
+.testimonial-2 .pt-40 { padding-top:0px !important; }
+.testimonial-2 footer { float:right !important;font-size:17px !important;margin-top:30px; }
+
+.owl-carousel .owl-dots .owl-dot span { border-radius:0 !important; }
+
+
+/************ GLM: SHARED CONTENT STYLING  ****************/
+
+.medium-text p { font-size:18px;font-weight:300;line-height:40px;font-family:Lato;margin:0 0 30px 0 !important;text-align:justify; }
+.medium-text a { text-decoration:underline; }
+.medium-text a:hover { text-decoration:none; }
+
+
+.sub-header { width:100%;text-align:center; }
+.sub-header h3 { font-weight:200;font-size:44px;margin-bottom:40px; }
+.sub-header h3 span { font-weight:700; }
+
+.inner-content-header { text-align:left;display:inline-block; }
+.inner-content-header h3 { font-weight:200;font-size:44px;margin-bottom:40px;margin-top:0; line-height:50px; }
+.inner-content-header h3 span { font-weight:700; }
+.inner-content-header h1 { font-weight:200;font-size:44px;margin-bottom:40px;margin-top:0; }
+.inner-content-header h1 span { font-weight:700; }
+
+
+.inner-subcontent-header { text-align:left;display:inline-block;margin-top:35px; }
+.inner-subcontent-header h3 { font-weight:200;font-size:36px;margin-bottom:20px;margin-top:0; }
+.inner-subcontent-header h3 span { font-weight:700; }
+
+.sidebar-header { text-align:left;display:inline-block;margin-top:5px; }
+.sidebar-header h3 { font-weight:200;font-size:30px;margin-bottom:20px;margin-top:0; }
+.sidebar-header h3 span { font-weight:700; }
+
+.blockquote-slideup { width:100%;border-top:8px solid #390;border-bottom:1px solid #390;margin:20px -75px 25px 40px;padding:25px 0 25px 0;float:right;font-size:15px;font-family:Lato;line-height:23px;font-weight:300;text-transform:uppercase; }
+.blockquote-slideup p, .blockquote-slideup div { font-size:15px;font-family:Lato;line-height:23px;font-weight:400; }
+.blockquote-slideup .pipe { color:#ccc;padding:0 15px 0 15px; }
+
+.blockquote-slideup ul { list-style-type:square;padding-left:20px; }
+.blockquote-slideup ul li { margin-bottom:16px; }
+
+
+.blockquote-slideup-left { width:100%;border-top:8px solid #390;border-bottom:1px solid #390;margin:20px 25px 25px 0px;padding:25px 0 25px 0;float:left;font-size:15px;font-family:Lato;line-height:23px;font-weight:300;text-transform:uppercase; }
+.blockquote-slideup-left p, .blockquote-slideup div { font-size:15px;font-family:Lato;line-height:23px;font-weight:400; }
+.blockquote-slideup-left .pipe { color:#ccc;padding:0 15px 0 15px; }
+
+.blockquote-slideup-left ul { list-style-type:square;padding-left:20px; }
+.blockquote-slideup-left ul li { margin-bottom:16px; }
+
+
+.firstcharacter {
+  color: #999;
+  float: left;
+  font-family: Lato;
+	font-weight:700;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 8px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+.btn-white { display:block;text-align:left;padding:0;margin-top:25px; }
+.btn-white a { background-color:#fff;color:#999;padding:15px 30px 15px 30px;text-align:center;font-family:Lato;font-weight:300;text-transform:uppercase;letter-spacing:2px;text-decoration:none;border:1px solid #ededed;font-size:15px; }
+.btn-white a:hover { background-color:#339900;color:#fff; }
+
+.btn-green { display:inline-block;text-align:left;padding:0;margin-top:25px; }
+.btn-green a { background-color:#339900;color:#fff;padding:15px 30px 15px 30px;text-align:center;font-family:Lato;font-weight:300;text-transform:uppercase;letter-spacing:2px;text-decoration:none;border:1px solid #ededed;font-size:15px; }
+.btn-green a:hover { background-color:#85e852;color:#fff; }
+
+.pa-img-left { float:left;margin:0 40px 0 0; }
+
+.txt-standout {
+    font-size: 20px;
+    font-weight: 300;
+    color: #339900;
+    padding: 8px 0 8px 0;
+    margin: 25px 0 25px 0;
+    text-align: center;
+    border-top: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+    line-height: 33px;
+	text-transform:uppercase;
+	font-family:Fira Sans;
+}
+
+.callout-left .callout-link {
+    font-weight: 400;
+    font-size: 18px;
+    text-decoration: none;
+    margin-top: 0px;
+}
+.callout-left {
+    width: 250px;
+    float: left;
+    font-size: 30px;
+    font-weight: 400;
+    padding: 20px 0 15px 0;
+    margin: 10px 40px 25px 0;
+    border-top: 8px solid #339900;
+    border-bottom: 1px solid #339900;
+    line-height: 30px;
+}
+
+.callout-left p { font-size:15px;line-height:25px;text-transform:uppercase; }
+
+.vc_col-sm-8 ul { margin:20px 0 30px 0;list-style-type:square; }
+.vc_col-sm-8 ul li { margin-bottom:18px; }
+
+
+
+/** GLM: STYLING FOR ELEMENTS THAT SLIDE INTO VIEW  ****************/
+.animation-element { position: relative;width: 30%;margin: 0% 1.33 2.66% 1.33%;float: right; }
+.animation-element-left { position: relative;width: 30%;margin: 0% 2% 2.66% 1.33%;float: left; }
+
+.testimonial-2 .animation-element { width:80px;float:left; }
+.testimonial-2:before { display:none; }
+
+/*3 grid layout*/
+.animation-element:nth-of-type(3n-2) { /*width: 31.5%;margin: 0% 1.375% 2.75% 0%;*/clear: left; }
+.animation-element:nth-of-type(3n-1) { /*width: 31.5%;margin: 0% 1.375% 2.75% 1.375%;*/ }
+.animation-element:nth-of-type(3n-0) { /*width: 31.5%;margin: 0% 0% 2.75% 1.375%;*/clear: right; }
+
+/*bounce up animation for the blockquote*/
+.bounce-up .blockquote-slideup { opacity: 0;
+  -moz-transition: all 700ms ease-out;
+  -webkit-transition: all 700ms ease-out;
+  -o-transition: all 700ms ease-out;
+  transition: all 700ms ease-out;
+  -moz-transform: translate3d(0px, 200px, 0px);
+  -webkit-transform: translate3d(0px, 200px, 0px);
+  -o-transform: translate(0px, 200px);
+  -ms-transform: translate(0px, 200px);
+  transform: translate3d(0px, 200, 0px);
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.bounce-up.in-view .blockquote-slideup { opacity: 1;
+  -moz-transform: translate3d(0px, 0px, 0px);
+  -webkit-transform: translate3d(0px, 0px, 0px);
+  -o-transform: translate(0px, 0px);
+  -ms-transform: translate(0px, 0px);
+  transform: translate3d(0px, 0px, 0px);
+}
+
+/*bounce up animation for the quote mark*/
+.bounce-up .quote-slideup { opacity: 0;
+  -moz-transition: all 700ms ease-out;
+  -webkit-transition: all 700ms ease-out;
+  -o-transition: all 700ms ease-out;
+  transition: all 700ms ease-out;
+  -moz-transform: translate3d(0px, 200px, 0px);
+  -webkit-transform: translate3d(0px, 200px, 0px);
+  -o-transform: translate(0px, 200px);
+  -ms-transform: translate(0px, 200px);
+  transform: translate3d(0px, 200, 0px);
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  backface-visibility: hidden;
+
+}
+
+.bounce-up .quote-slideup img { opacity:0.1;margin-top:-50px; }
+
+.bounce-up.in-view .quote-slideup { opacity: 1;
+  -moz-transform: translate3d(0px, 0px, 0px);
+  -webkit-transform: translate3d(0px, 0px, 0px);
+  -o-transform: translate(0px, 0px);
+  -ms-transform: translate(0px, 0px);
+  transform: translate3d(0px, 0px, 0px);
+}
+
+
+/************ GLM: HOMEPAGE ATTORNEY BANNER  ****************/
+
+.attorney-wrapper { width:100%;min-height:658px;display:inline-block;background-image:url('/wp-content/uploads/2018/04/attorney-jeff-green-illinois.jpg');background-size:cover;background-position:center center; }
+
+.attorney-wrapper .color-overlay  { position: absolute;width: 100%;height: 100%;top: 0;right: 0;bottom: 0;left: 0;transition: all 2.3s ease-in-out;background-color: rgba(51, 153, 0, 0.8); }
+.in-view .color-overlay { background-color: rgba(51, 153, 0, 0.0); }
+
+.attorney-wrapper .message-box { background-color:#fff;width:40%;float:right;padding:30px 50px 40px 50px;margin-top:80px;text-align:center; }
+
+.attorney-wrapper .message-box h4 { text-transform:uppercase;font-weight:600;color:#777;font-family:Fira Sans;font-size:17px;letter-spacing:2px;margin:20px 0 0 0; }
+.attorney-wrapper .message-box h2 { font-weight:300;font-family:Fira Sans;font-size:32px;color:#339900;margin:15px 0 0 0; }
+.attorney-wrapper .separator-green { height:3px;width:100px;background-color:#85e852;margin:15px auto; }
+.attorney-wrapper .message-box p { text-align:left; }
+
+
+.attorney-wrapper .attorney-info { max-width:25%;display:inline-block;margin-top:520px;transition: all 0.5s ease-in-out; }
+.attorney-wrapper:hover .attorney-info { margin-top:360px; }
+
+.attorney-wrapper .attorney-info .name { border-left:10px solid #339900; }
+.attorney-wrapper .attorney-info .name h2 { padding-left:30px;font-size:36px;font-family:Fira Sans;color:#fff; }
+.attorney-wrapper .attorney-info .name h5 { padding-left:30px;font-size:24px;font-family:Fira Sans;color:#85e852; }
+
+.attorney-wrapper .attorney-info .desc { font-size:18px;font-family:Fira Sans;color:#fff;border-left:0px;padding-left:40px;line-height:26px;display:none;transition: all 0.5s ease-in-out; }
+.attorney-wrapper:hover .attorney-info .desc { display:inline-block; }
+
+.attorney-wrapper .attorney-info .desc .btn { display:block;text-align:left;padding:0;margin-top:25px; }
+.attorney-wrapper .attorney-info .desc .btn a { background-color:#339900;color:#fff;padding:15px 30px 15px 30px;text-align:center;font-family:Lato;font-weight:300;text-transform:uppercase;letter-spacing:2px; }
+.attorney-wrapper .attorney-info .desc .btn a:hover { background-color:#85e852; }
+
+
+.grey-background { background-image:url('/wp-content/uploads/2018/01/bg-boxes-light.jpg');background-position:center center; }
+
+
+
+/************ GLM: CREDENTIAL BADGES  ****************/
+
+.badges { background-color:#222;width:100%;padding:0px 0 0px 0; }
+.badges .badge-box { width:25%;float:left;text-align:center;background-color:#222; }
+.badges .badge-box img { opacity:0.4; }
+.badges .badge-box img:hover { opacity:0.8; }
+
+
+/************ GLM: EXAMPLE PAGE BANNER  ****************/
+.page-id-3552 .banner-wrapper { background-image:url('/wp-content/uploads/2018/02/jgl-writing.jpg'); }
+.page-id-3600 .banner-wrapper { background-image:url('/wp-content/uploads/2018/04/vehicle-accident.jpg'); }
+.page-id-3667 .banner-wrapper, .page-id-4127 .banner-wrapper { background-image:url('/wp-content/uploads/2018/04/vehicle-accident.jpg'); }
+.page-id-3569 .banner-wrapper { background-image:url('/wp-content/uploads/2018/04/contact-firm.jpg'); }
+.page-id-3572 .banner-wrapper, .page-id-4128 .banner-wrapper { background-image:url('/wp-content/uploads/2018/04/personal-injury.jpg'); }
+.page-id-3648 .banner-wrapper { background-image:url('/wp-content/uploads/2018/04/truck-accident.jpg'); }
+.page-id-3651 .banner-wrapper { background-image:url('/wp-content/uploads/2018/04/dog-bite-injury.jpg'); }
+.page-id-3652 .banner-wrapper { background-image:url('/wp-content/uploads/2018/04/construction-accident.jpg'); }
+.page-id-3607 .banner-wrapper { background-image:url('/wp-content/uploads/2018/04/nursing-home-abuse.jpg'); }
+.page-id-3600 .banner-wrapper { background-image:url('/wp-content/uploads/2018/02/attorney-jeff-gree-services.jpg'); }
+.page-id-3688 .banner-wrapper { background-image:url('/wp-content/uploads/2018/04/success-trial.jpg'); }
+.page-id-3669 .banner-wrapper { background-image:url('/wp-content/uploads/2018/04/medial-device-drug-injury.jpg'); }
+.page-id-3672 .banner-wrapper { background-image:url('/wp-content/uploads/2018/04/Xarelto.jpg'); }
+.page-id-3657 .banner-wrapper { background-image:url('/wp-content/uploads/2018/04/knee-replacement.jpg'); }
+.page-id-3677 .banner-wrapper { background-image:url('/wp-content/uploads/2018/04/personal-injury.jpg'); }
+.page-id-3681 .banner-wrapper { background-image:url('/wp-content/uploads/2018/04/personal-injury.jpg'); }
+.page-id-3682 .banner-wrapper { background-image:url('/wp-content/uploads/2018/04/personal-injury.jpg'); }
+.page-id-3683 .banner-wrapper { background-image:url('/wp-content/uploads/2018/04/personal-injury.jpg'); }
+.page-id-3684 .banner-wrapper { background-image:url('/wp-content/uploads/2018/04/personal-injury.jpg'); }
+.page-id-3685 .banner-wrapper { background-image:url('/wp-content/uploads/2018/04/personal-injury.jpg'); }
+.page-id-3686 .banner-wrapper { background-image:url('/wp-content/uploads/2018/04/personal-injury.jpg'); }
+.page-id-3680 .banner-wrapper { background-image:url('/wp-content/uploads/2018/04/personal-injury.jpg'); }
+.page-id-3687 .banner-wrapper { background-image:url('/wp-content/uploads/2018/04/personal-injury.jpg'); }
+.page-id-3666 .banner-wrapper { background-image:url('/wp-content/uploads/2018/04/guardrail-accident.jpg'); }
+.page-id-3462 .banner-wrapper { background-image:url('/wp-content/uploads/2018/04/guardrail-accident.jpg'); }
+
+
+/************ GLM: LEGAL SERVICES BANNER  ****************/
+
+.banner-wrapper { width:100%;min-height:550px;display:inline-block;background-image:url('/wp-content/uploads/2018/04/inner-jeff-banner.jpg');background-size:cover;background-position:center center; }
+.page-id-3542 .banner-wrapper { background-image:url('/wp-content/uploads/2018/02/attorney-jeff-gree-services-1.jpg'); }
+
+.banner-wrapper .color-overlay  { position: absolute;width: 100%;height: 100%;top: 0;right: 0;bottom: 0;left: 0;transition: all 2.3s ease-in-out;background-color: rgba(51, 153, 0, 0.8); }
+.in-view .color-overlay { background-color: rgba(51, 153, 0, 0.0); }
+
+.banner-wrapper .message-box { background-color:#fff;width:40%;float:right;padding:30px 50px 40px 50px;margin-top:80px;text-align:center; }
+
+
+
+.banner-wrapper .message-box h4 { text-transform:uppercase;font-weight:600;color:#777;font-family:Fira Sans;font-size:17px;letter-spacing:2px;margin:20px 0 0 0; }
+.banner-wrapper .message-box h2 { font-weight:300;font-family:Fira Sans;font-size:32px;color:#339900;margin:15px 0 0 0; }
+.banner-wrapper .separator-green { height:3px;width:100px;background-color:#85e852;margin:15px auto; }
+.banner-wrapper .message-box p { text-align:left; }
+
+.banner-wrapper .btn { display:block;text-align:left;padding:0;margin-top:40px; }
+.banner-wrapper .btn a { background-color:#339900;color:#fff;padding:15px 30px 15px 30px;text-align:center;font-family:Lato;font-weight:300;text-transform:uppercase;letter-spacing:2px; }
+.banner-wrapper .btn a:hover { background-color:#85e852; }
+
+.services-recalls { display:inline-block; }
+.services-recalls p { font-size:14px;line-height:25px; }
+.services-recalls h4 { font-weight:300;font-size:22px;text-transform:uppercase;font-family:Lato;padding:0;margin:0;letter-spacing:1px;clear:unset; }
+.services-recalls img { float:left;margin:0 15px 15px 0;border:1px solid #ddd; }
+
+.services-side-side { background-image:url('/wp-content/uploads/2018/02/side-by-side-bg.jpg');background-position:center center; }
+
+
+/************ GLM: RIGHT SIDEBAR STYLES  ****************/
+
+.vc_col-sm-4 .wpb_widgetised_column { margin-left:10%; }
+
+#menu-jgl-practice-area-sidebar li { text-align:right;border-bottom:1px solid #eee;padding:8px 0 8px 0;margin:8px 0 8px 0px; }
+#menu-jgl-practice-area-sidebar li a { font-family:Lato;font-weight:300;font-size:17px;letter-spacing:1px;text-transform:uppercase;text-decoration:none; }
+
+#menu-jgl-locations-sidebar li { text-align:right;border-bottom:1px solid #eee;padding:8px 0 8px 0;margin:8px 0 8px 0px; }
+#menu-jgl-locations-sidebar li a { font-family:Lato;font-weight:300;font-size:17px;letter-spacing:1px;text-transform:uppercase;text-decoration:none; }
+
+#menu-jgl-sidebar-medical-device-drug-injury li { text-align:right;border-bottom:1px solid #eee;padding:8px 0 8px 0;margin:8px 0 8px 0px; }
+#menu-jgl-sidebar-medical-device-drug-injury li a { font-family:Lato;font-weight:300;font-size:17px;letter-spacing:1px;text-transform:uppercase;text-decoration:none; }
+
+.custom-html-widget h2 { font-size:30px;font-family:Lato;font-weight:800;color:#555;clear:unset; }
+.custom-html-widget .fa-phone { font-size:30px;color:#999;margin-right:20px; }
+
+#custom_html-3 { margin-bottom:20px; }
+
+.textwidget .wpcf7-form .btn-white { color:#fff !important;width:100%; }
+
+.cms-button {
+    color:#fff !important;
+}
+.cms-button:hover {
+    background-color: #85e852 !important;
+}
+.cms-button.gray:hover {
+    background-color: #85e852 !important;
+}
+.cms-button.gray {
+    background: #390 !important;
+    color: #fff !important;
+}
+.owl-carousel { z-index:0 !important; }
+
+
+/************ GLM: BLOG STYLING  ****************/
+
+.blog .p-140-cont { padding-top:0px; }
+.blog .banner-wrapper { margin-bottom:80px !important; }
+.blog .footer-meta-wrap, .single .footer-meta-wrap { display:none; }
+
+
+/************ GLM: FOOTER STYLING  ****************/
+
+.footer-section { width:100%;background-color:#303236;padding:90px 0 50px 0;background-image:url('/wp-content/uploads/2018/01/footer-background.jpg');background-position:top left;background-repeat: no-repeat;text-align:center;border-top:5px solid #339900; }
+.footer-section .footer-logo { width:100%;text-align:center; }
+.footer-section .contact-info { width:100%;text-align:center;font-weight:200;font-size:26px;color:#ccc;margin-top:25px; }
+.footer-section .contact-info .phone { color:#fff;font-weight:700; }
+.footer-section .contact-info .email { color:#fff;font-weight:700; }
+.footer-section .address { font-size:14px;letter-spacing:2px;color:#ccc;font-weight:300;width:100%;text-align:center; }
+
+.copyright { width:80%;border-top:1px solid #444;padding-top:15px;margin-top:50px;display:inline-block; }
+.copyright .left-txt { float:left;font-size:13px;color:#888;letter-spacing:2px;width:85%;text-align:left; }
+.copyright .left-text a { color:#666 !important; }
+.copyright .left-text a:hover { text-decoration:underline !important;color:#ccc !important; }
+.copyright .right-txt { float:left;width:15%;text-align:right; }
+
+#glm-logo {opacity:0.30;}
+#glm-logo:hover {opacity:0.80;}
+
+
+/************ BY: CONTENT STYLING, LANDING PAGES  ****************/
+
+/* Typography */
+.by h1, .by h2, .by h3, .by h4, .by span { margin:0;  }
+.by h5, .by h6, .by p, .by em, .by sup {  }
+.by h1 { font-size: 42px; font-weight: lighter; }
+.by h2 { font-size:36px; letter-spacing:-1px; line-height:42px; word-spacing: 3px; }
+.by h2.serif, .by .serif h2 { font-family: 'Libre Baskerville',serif; font-size:42px; letter-spacing:0; line-height:42px; word-spacing: 3px; font-style: italic; }
+.by h2 strong { font-weight: 900; letter-spacing: .25px; }
+.by h3 { font-weight: bold; font-size: 23px; }
+.by h4 { font-family: 'Libre Baskerville',serif; font-weight: 400; text-transform: none; font-size: 26px; font-style: italic; line-height:38px; }
+.by h5 { margin:0; font-size: 20px; }
+.by h6 { margin:0; font-size:21px; line-height: 28px; }
+.by p {  }
+.by em { font-family: 'Libre Baskerville',serif; }
+.by sup {  }
+
+/* Universal */
+p:empty { display:none; }
+.bg-white { background-color:white; }
+.bg-grey { background-color:#f3f3f3; }
+.bg-light-grey { background-color:#f9f9f9; }
+.bg-green { background-color:#339900; }
+.bg-tiel { background-color:#e5f8e5; }
+
+.content-padding { padding: 100px 75px !important; }
+.content-padding-vert { padding: 100px 0px !important; }
+.content-center {text-align:center;}
+.content-left {text-align:left;}
+.content-right {text-align:right;}
+
+.spacer-bar { width: 300px; height: 4px; background-color: #390; margin:25px; margin-right:auto; margin-left:auto; }
+.content-padding h2 {padding-bottom:25px;}
+.sidebar-section {  }
+
+.landing-pg .column-wrapper { width:100%;display:inline-block; }
+.landing-pg .column-wrapper .column-left { width:49%;float:left;padding-right:30px; }
+.landing-pg .column-wrapper .column-right { width:49%;float:left;padding-left:30px; }
+.landing-pg .column-wrapper input[type=text], .landing-pg .column-wrapper textarea,  .landing-pg .column-wrapper select,  .landing-pg .column-wrapper .login-select,  .landing-pg .column-wrapper .form-control { color:#fff;border-bottom:1px solid #fff;background-color:rgba(255,255,255,0.4);padding:20px 0 20px 10px;font-weight:600; }
+.landing-pg .column-wrapper input[type=submit] { border-bottom:0px;width:100%; }
+
+@media only screen and (max-width: 950px) {
+.landing-pg .column-wrapper .column-left { width:100%;float:none;padding-right:0px; }
+.landing-pg .column-wrapper .column-right { width:100%;float:none;padding-left:0px; }
+}
+
+/* Callouts */
+.by .callout-left {width:auto;}
+.by .bg-green .callout-left h4 {color:white;}
+.by .callout-left.callout-lrg { padding: 0 0 15px; }
+.by .callout-left.callout-lrg h4 { line-height: 44px; font-family: 'Libre Baskerville',serif !important; text-transform: none; font-weight: lighter; font-style: italic; margin: 0; padding:20px 0; }
+.by .callout-lrg .callout-link { padding: 25px 0 12px 0; text-transform: uppercase; }
+.by .callout-link.btn { padding: 25px 50px; background: #efefef; border-radius: 0; transition: .25s ease-in-out; }
+.by .callout-link.btn a { color:black; font-weight:bold; }
+.by .callout-link.btn:hover { background:white; }
+.by .callout-link.btn:hover > a { text-decoration: underline; }
+
+/* CTAs */
+.cta-img { background-position: center; }
+.cta-bg { background-color:rgba(51,153,0,0.85); }
+.cta-container { margin: 0 auto; }
+.cta-container h2 { color:white; padding:0; margin:0; }
+.cta-container h3 { color:white; font-size: 30px; font-weight: 400; letter-spacing: 1px; }
+.cta-container h5 { color:white; font-weight: normal; font-size: 26px; letter-spacing: 1px; text-transform:uppercase; }
+.cta-container h6 {color:white; margin-bottom:5px;line-height:30px; }
+.cta-container p { color:white; }
+.cta-container .spacer-bar { background-color:white; height: 2px; margin: 10px; margin-right: auto; margin-left: auto;}
+cta-container .cms-button {background: #390;}
+.cta-container .cms-button-wrap a:hover, .cta-container .cms-button a:hover { background-color:white !important; color: black !important; border: 2px solid white !important; }
+.cta-container .spacer-bar { background-color:white; height: 2px; margin: 25px; margin-right: auto; margin-left: auto;}
+
+/* Lists*/
+.medium-text ul li { font-size:18px; line-height:30px; }
+.ul-container {}
+
+ul.nobullets {list-style-type:square;}
+ul li {line-height: 20px; padding: 10px 5px; }
+ul li::before {color:#339900;}
+
+ul.nolist { margin:0; list-style:none; padding:0; }
+ul.nolist li { display:inline-block; padding: 0 25px; }
+ul.nolist.four li { width:25%; }
+ul.nolist.three li { width:33%; }
+ul.nolist.two li { width:50%; }
+ul.nolist li { vertical-align: top; text-align:center; }
+ul.nolist.content-left li { vertical-align: top; text-align:left; }
+ul.nolist li.short { width:20%; text-align:center; margin:0 auto; }
+ul.nolist li h3 { padding:0; }
+
+ul.nolist.info { margin:0 auto; text-align:center; }
+ul.nolist.info li { text-align:center; font-weight:bold; padding: 0 25px 0 0; }
+ul.nolist.info li img { display:block; width: 75px; height:75px; margin:0 auto; }
+
+/* Icons */
+.section-icon-wrapper {}
+.section-icon-wrapper .icon { display:inline-block; margin:0 auto; padding:0; vertical-align:top; }
+.section-icon-wrapper.two .icon { width:50%; }
+.section-icon-wrapper.three .icon { width:33.3333%; }
+.section-icon-wrapper.four .icon { width:25%; }
+.section-icon-wrapper .icon img { height: 150px; width: 150px; margin:20px 0 0 0; }
+.section-icon-wrapper .icon p { font-weight: bold; font-size: 20px; padding-bottom: 30px; margin:0; }
+.bg-green .section-icon-wrapper .icon p {color:white;}
+
+.section-icon-wrapper.cases .icon { background-color:#390; border: 1.25px solid #efefef; }
+.section-icon-wrapper.cases .icon p { color:white; }
+.section-icon-wrapper.cases .icon:hover { background-color:#4ab316; }
+
+.section-icon-wrapper.crash .icon img { display:inline-block; width:175px; height:175px; margin:0; padding:0; vertical-align: top; float: left; }
+.section-icon-wrapper.crash .icon div { display:inline-block; width:70%; vertical-align: top; }
+.section-icon-wrapper.crash .icon h3 { text-align:left; color:#390; padding-bottom: 12.5px; }
+.section-icon-wrapper.crash .icon p { color:black; font-weight:normal; font-size: 18px; }
+
+.section-icon-wrapper.fault .icon { padding: 25px; vertical-align: top; text-align:left; }
+.section-icon-wrapper.fault .icon img { display: block; margin: 0 auto; }
+.section-icon-wrapper.fault .icon p span { text-align:left; }
+
+.section-icon-wrapper.stats .icon { padding: 0 15px; }
+.section-icon-wrapper.stats .icon h2 { color:#818181; }
+.section-icon-wrapper.stats .icon p { font-weight: 400; text-align: left; font-size: 20px; }
+.section-icon-wrapper.stats .icon p a { font-weight:bold; text-align:left; font-size:20px; color:#390; }
+
+
+/************ GLM: MOBILE STYLING  ****************/
+
+@media only screen and (max-width: 1300px) {
+    .by .container { width:100%; }
+    .section-icon-wrapper.four.stats .icon {width:50%;}
+}
+
+@media only screen and (max-width: 1200px) {
+    .by .banner-wrapper .message-box {width:60%;text-align:left;}
+    .by .banner-wrapper .message-box h2 { font-size: 48px; letter-spacing: -1.5px; }
+    .by .banner-wrapper .message-box .separator-green {margin:15px 0;}
+    .by .callout-two { padding-bottom:25px; float:left; }
+    .by .callout-two .callout-left { padding:0; margin:0; padding-bottom:25px; }
+    .by .callout-two .callout-link.btn { text-align:right; float:right; margin-right:50px; }
+}
+
+@media only screen and (max-width: 1050px) {
+	#cshero-header-navigation { display:none; }
+	#page { margin-top:50px; }
+	.home #rev_slider_11_1_wrapper, .home #rev_slider_11_1 { display:none !important; }
+	.home .home-banner { height:340px;background-size:cover;margin-top:50px; }
+	.home .animation-element { width:100%; }
+	.home .animation-element .blockquote-slideup { width:100%;margin:20px 0px 25px 0px !important; }
+	
+	.home .attorney-wrapper .message-box { width:35%;padding:15px 20px 25px 20px;  }
+	.home .attorney-wrapper .message-box h2 { font-size:22px; }
+	.home .attorney-wrapper .message-box h4 { font-size:13px;letter-spacing:0px;margin-top:5px;line-height:18px; }
+	.home .attorney-wrapper .message-box p { font-size:14px;line-height:20px; }
+	
+	.home .attorney-wrapper .attorney-info { max-width:35%;margin-top:320px; }
+	.home .attorney-wrapper .attorney-info .name h2 { font-size:28px; }
+	.home .attorney-wrapper .attorney-info .name h5 { font-size:19px; }
+	.home .attorney-wrapper .attorney-info .desc { font-size:14px;line-height:19px;display:inline-block; } 
+	
+	.home .owl-carousel .owl-item img { display:none; }
+	.home .testimonial-2 p { padding-top:0px; }
+	
+	.copyright .left-txt { letter-spacing:0px;float:none;width:100%;text-align:center; }
+	.copyright .right-txt { width:100%;float:none;text-align:center; }
+	
+	.pa-tile .overlay-green .pa-btn, .pa-tile .overlay-white .pa-btn, .pa-tile .overlay-light-green .pa-btn, .pa-tile .overlay-dark-green .pa-btn { display:inline-block; }
+    
+    .content-padding { padding: 75px 50px !important; }
+    .by .message-box h2 { font-size: 38px; }
+    .by .message-box h4 { margin: 5px 0 0; }
+    .by .ul-container div {width: 100%; }
+    .by .callout-left.callout-lrg h4 { font-size:28px; }
+    .by .section-icon-wrapper.four.fault .icon {width:50%;}
+    .section-icon-wrapper.four.stats .icon {  padding-bottom: 25px; }
+    
+    /*VC Specific*/
+    .nine-fifty-fix { width:100% !important; }
+}
+
+@media only screen and (max-width: 1050px) and (min-width: 750px)  {
+	.home .home-banner { height:290px;background-size:cover;margin-top:70px; }
+	.home-result h3 { font-size:36px; }
+	.home-result h6 { font-size:14px; }
+	.result-1:hover h3, .result-2:hover h3, .result-3:hover h3 { font-size:40px; }
+	.result-1:hover h3 span, .result-2:hover h3 span, .result-3:hover h3 span { font-size:18px; }
+		.home .attorney-wrapper .message-box p { font-size:14px;line-height:20px; }
+		.animation-element {width: 100%;}
+	.blockquote-slideup {margin: 20px -10px 25px 10px;}
+
+
+	
+}
+
+@media only screen and (max-width: 950px) {
+    .banner-wrapper .message-box { background-color:#fff;width:60%;float:right;padding:30px 50px 40px 50px;margin-top:80px;text-align:center; }
+    .by .callout-left.callout-lrg {width:100%;}
+    .by .callout-lrg h4 {padding:20px 0;}
+    .by .callout-lrg .callout-link {padding:0;}
+}
+
+@media only screen and (max-width: 750px) {
+	.home .home-banner { height:260px;background-size:cover;margin-top:120px; }
+	.medium-text p { font-size:16px;line-height:30px;text-align:left; }
+	.home .attorney-wrapper .attorney-info { max-width:75%;margin-top:290px; }
+	.sub-header h3 { font-size:32px; }
+	.home .testimonial-2 p { font-size:20px !important; }
+	.home .cms-carousel-item  .plr-50 { padding-left:0px;padding-right:0px; }
+	.home .pa-tile { min-height:200px;max-height:200px; }
+		.home .attorney-wrapper .message-box p { font-size:14px;line-height:20px; }
+	.banner-wrapper .message-box { background-color:#fff;width:60%;float:right;padding:30px 50px 40px 50px;margin-top:80px;text-align:center; }
+	.animation-element {width: 100%;}
+	.blockquote-slideup {margin: 20px -10px 25px 10px;}
+    
+    ul.nolist.info { text-align:left; }
+    ul.nolist.three li { width:50%; }
+    ul.nolist.info li {text-align:left;}
+    ul.nolist.info li img {margin:0;}
+    .by .section-icon-wrapper.four.fault .icon { width:100%; }
+    .section-icon-wrapper.four.stats .icon { width:100%; text-align:left; }
+    .section-icon-wrapper.four.stats .icon h2 { padding-bottom:10px; }
+    .section-icon-wrapper.cases .icon { padding-bottom: 100%; margin-bottom: -100%; vertical-align: top; }
+    .section-icon-wrapper .icon img { height: 100px; width: 100px; }
+    .section-icon-wrapper.cases .icon p { font-size: 20px; padding:15px; line-height:26px; }
+    .section-icon-wrapper.crash .icon div { width: 100%; }
+    .section-icon-wrapper .icon p {padding-bottom:0;}
+    .cta-bg {padding:75px !important;}
+    .cta-container h6 { font-size: 15px; margin: 0;}
+}
+
+@media only screen and (max-width: 600px) {
+	.home .home-banner { height:240px;background-size:cover;margin-top:110px; }
+    .message-box {display: none;}
+	.animation-element {width: 100%;}
+	.blockquote-slideup {margin: 20px -10px 25px 10px;}
+	.banner-wrapper {min-height: 250px;width: 100%;margin-top: 100px;}
+ 	.inner-content-header {display: inline;width:100%;}
+	.inner-content-header h3 {font-size: 25px;}
+	.btn-green a {padding: 15px 0px 15px 0px;font-size: 10px;}
+	.medium-text p {margin: 0 0 0 0 !important;}
+	.btn-white a {padding: 15px 0px 15px 0px;font-size: 10px;}
+	.banner-wrapper .message-box { background-color:#fff;width:60%;float:right;padding:30px 50px 40px 50px;margin-top:80px;text-align:center; }
+	
+    .content-padding .two {width:100%;}
+    .content-padding .three {width:100%;}
+    .content-padding .four {width:100%;}
+    ul.nolist.two li { width: 100%; }
+    ul.nolist.three li { width: 100%; }
+    ul.nolist.four li { width: 100%; }
+    ul.nolist.info li { text-align:center; padding:0; }
+    ul.nolist.info li img { margin:0 auto; }
+    ul.nolist li { padding: 12px 25px; }
+    
+    .by h4 {text-align:left !important;}
+    .by .txt-standout {text-align:left;}
+}
