@@ -1,0 +1,225 @@
+<div id="by" class="moto-acc"> 
+
+<!--CALL TB LAW start-->
+<div class="sub_block3 btm intro-sec">
+            <div class="container-inn">
+               <div class="sub_block3_sec clearfix">
+                  <h2 class="title" style="padding-top:35px;">Why You Need to call Terry Bryant</h2>
+                     <div class="sub_block3_lt btm column-padding">
+                        <p>Though accidents involving passenger vehicles comprise the greatest number of traffic accidents in Texas, motorcycle wrecks on freeways and streets also occur regularly. Because of a lack of protection between riders and the road, motorcyclists usually suffer serious injuries after accidents.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed massa porta, vulputate est id, egestas risus. Nunc in eros lobortis, tempor tellus nec, ornare libero. Donec sagittis magna nec est facilisis, eu pulvinar tellus egestas. Sed gravida ante quis rhoncus aliquet. Duis bibendum purus nec condimentum aliquet. Ut in enim enim. Cras vitae arcu leo. Maecenas dictum non tellus ut iaculis. Suspendisse in hendrerit dui, eget pretium lectus. Integer egestas nisi ex, ac elementum quam suscipit id.</p>
+                     </div>
+                     <div class="sub_block3_rt btm column-padding">
+                        <p>When they file a claim with an insurance company after being hit by a negligent driver, negative stereotypes can prevent motorcyclists from getting the compensation they deserve. Terry Bryant Accident & Injury Law can help. Our Houston motorcycle accident lawyers know the hazards riders like you face every day, and we’re not afraid to stand up for your rights. You don’t have to fight the insurance company alone after your bike accident. Talk to a member of our legal staff about your situation any time, seven days a week, at (800) 444-5000 or (713) 973-8888; or fill out our online form to set up your free consultation.</p>
+                     </div>
+                  </div>
+            </div>
+         </div>
+<!--CALL TB LAW end-->
+
+<!--COMMON QUESTIONS start-->
+<div class="Contingency ">
+            <div class="container-inn">
+               <div class="Contingency_cnt">
+                  <ul class="clearfix">
+                     <li>
+                        <a id="tab1" class="active"><em><img src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/icon5.png" alt="img" width="42" height="40"></em>
+                        What To Do After an Accident?</a>
+                     </li>
+                     <li>
+                        <a id="tab2" class=""><em><img src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/icon6.png" alt="img" width="42" height="40"></em>
+                        What If I'm Being Blamed?</a>
+                     </li>
+                     <li>
+                        <a id="tab3" class=""><em><img src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/icon7.png" alt="img" width="42" height="40"></em>
+                        Should I Accept the Offer?</a>
+                     </li>
+                  </ul>
+                  <div class="tabs">
+                     <div class="tabs_main tab1" style="display: block;">
+                        <div class="tabs_inner clearfix">
+                           <div class="tab_left">
+                              <ul>
+                                 <li>Check for injuries to yourself and others. If anyone is injured, call 911.</li>
+                                 <li>Get off the road. If possible, move all vehicles to a safe location. But snap a few pictures beforehand, if circumstances allow and you aren’t placing yourself or anyone else in danger.</li>
+                                 <li>Exchange information with other involved drivers, including names, addresses, phone numbers, insurance information, and TDL numbers, license plate numbers, vehicle makes and models.</li>
+                              </ul>
+                           </div>
+                           <div class="tab_left">
+                              <ul>
+                                 <li>Call the cops if anyone is injured or there is substantial property damage. Their accident report is vital in your efforts to recover damages if you were the one hit on your motorcycle.</li>
+                                 <li>Talk to witnesses if you can, and record their comments. Get as much information as you can at the crash scene.</li>
+                                 <li>Never admit fault! And be careful what you say. Statements at the accident scene can have negative consequences when you’re trying to get compensation from the negligent driver’s insurer.</li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="btn_sec sec2">
+                           <ul>
+                              <li><a href="/contact-us" rel="nofollow"><button class="btn btn1">REQUEST FREE CONSULTATION</button></a></li>
+                              <li><a href="/texas/testimonials.php" rel="nofollow"><button class="btn">CLIENT TESTIMONIALS</button></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="tabs_main tab2" style="display: none;">
+                        <div class="tabs_inner clearfix">
+                           <div>
+                              <h5>WHAT IF THE INSURANCE COMPANY SAYS I CAUSED THE WRECK?</h5>
+                              <p><strong>This happens all too often,</strong> especially to accident victims who ride motorcycles. Insurers like to press their advantage as often as they can. And “devil may care” bikers – even if you’re not one of them – make easy targets in denying damages because there’s a perception that bikers are careless and reckless. But the reality is different. Nearly two-thirds of motorcycle crashes are caused by motorists, not motorcycle riders. And a seasoned motorcycle accident lawyer has ways of pressing your advantage in negotiations with the insurance company, or at trial if they fail to see reason.</p>
+                           </div>
+                        </div>
+                        <div class="btn_sec sec2">
+                           <ul>
+                              <li><a href="/contact-us" rel="nofollow"><button class="btn btn1">REQUEST FREE CONSULTATION</button></a></li>
+                              <li><a href="/texas/testimonials.php" rel="nofollow"><button class="btn">CLIENT TESTIMONIALS</button></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="tabs_main tab3" style="display: none;">
+                        <div class="tabs_inner clearfix">
+                           <div>
+                              <h5>SHOULD I ACCEPT THE INSURANCE COMPANY’S OFFER?</h5>
+                              <p><strong>Do not accept ANY insurance company’s offer without talking to a lawyer!</strong> Once you've taken their money, you've blown your only shot at compensation. You can’t ask for more once you realize that what you got cannot begin to cover all your medical bills, lost wages, pain and suffering and other monies which are rightly owed but that you left on the table by accepting that first “lowball” settlement offer. A seasoned motorcycle attorney can quickly and accurately determine the fairness of an offer and tell you whether it will likely cover all your accident-related bills and other expenses. An experienced lawyer can aggressively negotiate with, AND shield you from, insurance companies and their lawyers who try to pressure you into accepting less money than they are actually prepared to pay you, but don’t want to.</p>
+                           </div>
+                        </div>
+                        <div class="btn_sec sec2">
+                           <ul>
+                              <li><a href="/contact-us" rel="nofollow"><button class="btn btn1">REQUEST FREE CONSULTATION</button></a></li>
+                              <li><a href="/texas/testimonials.php" rel="nofollow"><button class="btn">CLIENT TESTIMONIALS</button></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+<!--COMMON QUESTIONS end-->
+
+<!--OVERHANG start-->
+<div class="overhang">
+            <div class="container-inn">
+               <div class="overhang_sec clearfix">
+                  <div class="overhang_lt">
+                     <h6>Lorem Ipsum Sub Header</h6>
+                     <h2 class="title">Motorcycle Accidents Resources</h2>
+                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies, felis sed pellentesque porta, diam ex volutpat lorem, eget bibendum nisl urna nec lacus. Aenean facilisis metus non tellus placerat semper.</p>
+                     <ul>
+                         <li><span><a href="https://www.terrybryant.com/motorcycle-accident" rel="nofollow">Motorcycle Accidents</a></span></li>
+                         <li><span><a href="https://www.terrybryant.com/motorcycle-accident/motorcycle-accident-our-practice" rel="nofollow">Our Practice</a></span></li>
+                         <li><span><a href="https://www.terrybryant.com/motorcycle-accident/motorcycle-accident-laws" rel="nofollow">Motorcycle Accident Laws</a></span></li>
+                         <li><span><a href="https://www.terrybryant.com/motorcycle-accident/motorcycle-accident-insurance" rel="nofollow">Motorcycle Insurance</a></span></li>
+                         <li><span><a href="https://www.terrybryant.com/motorcycle-accident/motorcycle-accident-stereotypes" rel="nofollow">Motorcycle Accident Stereotypes</a></span></li>
+                         <li><span><a href="https://www.terrybryant.com/motorcycle-accident/motorcycle-injuries" rel="nofollow">Common Types of Motorcycle Injuries</a></span></li>
+                         <li><span><a href="https://www.terrybryant.com/motorcycle-accident/motorcycle-accident-safety" rel="nofollow">Motorcycle Accident Safety</a></span></li>
+                         <li><span><a href="https://www.terrybryant.com/motorcycle-accident/after-an-accident" rel="nofollow">After an Accident</a></span></li>
+                         <li><span><a href="https://www.terrybryant.com/motorcycle-accident/motorcycle-accident-legal-process" rel="nofollow">Legal Process</a></span></li>
+                         <li><span><a href="https://www.terrybryant.com/motorcycle-accident/motorcycle-accident-faq" rel="nofollow">Motorcycle Crash FAQ</a></span></li>
+                      </ul>
+                  </div>
+                  <div class="overhang_rt">
+                     <h6>Lorem Ipsum Sub Header Here</h6>
+                     <h2 class="title">The Numbers Confirm Dangers That Bike Riders Face</h2>
+                     <p>In 2015, 4,976 people died in motorcycle crashes in the U.S., up 8.3% from 4,594 in 2014, according to the <a href="http://www-nrd.nhtsa.dot.gov/Pubs/812148.pdf" target="_blank" rel="nofollow noopener">National Highway Traffic Safety Administration</a> (NHTSA). 496 Texas motorcyclists (operators and passengers) were killed <a href="http://ftp.dot.state.tx.us/pub/txdot-info/trf/crash_statistics/2016/01.pdf" target="_blank" rel="nofollow noopener">in 2016</a>, and over 2,000 operators and passengers suffered serious injuries. In the 14 years from 1997 to 2011, motorcycle accident fatalities more than doubled, while total traffic accident fatalities dropped by 23%, according to the Governors Highway Safety Association (GHSA). The National Highway Traffic Safety Administration (NHTSA) also says that motorcyclists are <a href="http://www.nhtsa.gov/About+NHTSA/Press+Releases/2014/ci.CONSUMER+ADVISORY:+Motorists+Should+%27Share+the+Road%27+With+Motorcyclists.print" target="_blank" rel="nofollow noopener">26 times</a> more likely to die in a crash than passenger car drivers. In 2015 – also according to the NHTSA – 40% of motorcyclists killed in traffic crashes were not wearing a helmet.</p>
+                     <p>Not every crash can be prevented, but you can help reduce your chances of serious injury by wearing a helmet every time you ride – it may even save your life. The fourth statistic above bears out that fact.</p>
+                     <div class="btn_sec sec1">
+                        <ul>
+                           <li><a href="/contact-us" rel="nofollow"><button class="btn btn1" style="margin:0;">REQUEST FREE CONSULTATION</button></a></li>
+                           <li><a href="/texas/testimonials.php" rel="nofollow"><button class="btn btn2" style="margin:0;">CLIENT TESTIMONIALS</button></a></li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+<!--OVERHANG end-->
+
+<!--BIASES start-->
+<div class="sub_block3 btm">
+            <div class="container-inn">
+               <div class="sub_block3_sec clearfix">
+                  <h2 class="title" style="padding-top:35px;">The Biases That a Texas Motorcycle Accident Victim Must Deal With</h2>
+                  <p>Many times a motorcycle rider who is injured in an accident is already at a huge disadvantage, because the insurance companies turn a negative public bias toward motorcyclists to their advantage. This prejudice is quickly leveraged the moment an injured biker files an insurance claim.</p>
+                  <div class="sub_block3_inn clearfix">
+                     <div class="sub_block3_lt btm column-padding">
+                        <p><strong>Most of it is not based in reality.</strong> According to a recent study by the University of South Florida’s Center for Urban Transportation Research, 60% of collisions between cars and motorcycles are <a href="http://articles.sun-sentinel.com/2013-03-09/news/fl-finding-fault-in-motorcycle-crashes-20130309_1_motorcycle-crashes-chanyoung-lee-motorcycle-riders" target="_blank" rel="nofollow noopener">caused by the driver of the car</a>. That study reinforces the groundbreaking 1981 <a href="http://isddc.dot.gov/OLPFiles/NHTSA/013695.pdf" target="_blank" rel="nofollow noopener">Hurt Report</a>, which found that two-thirds of vehicle/motorcycle collisions were caused by the vehicle’s driver.</p>
+                        <div class="txt-standout"><h5 class="content-right" style="color:#642830;">And most of those were attributed to the vehicle driver's failing to yield the right of way to the biker.</h5></div>
+                     </div>
+                     <div class="sub_block3_rt btm column-padding">
+                        <p><strong>But that doesn’t stop insurance adjusters</strong> from discriminating against motorcyclists to automatically deny their claims. And since the burden is on you – the injured motorcyclist – to prove the vehicle driver’s negligence, it’s also on you to disprove an insurance company’s claim that you’re not a “devil-may-care biker,” and to persuade them that you deserve compensation for all damages caused by the negligent driver.</p>
+                        <p>Make sure your legal rights to collect all of your legal damages are being protected after a motorcycle accident. At Terry Bryant, we’ll handle the investigation and paperwork for your claim so you can focus on getting better. Call us at (800) 444-5000 or fill out our contact form to arrange a free review of your case. If you become a client, we handle nearly everything -- and you owe us nothing unless we are successful at securing compensation for your damages.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+<!--BIASES end-->
+
+<!--COMMON SECTION start-->
+<div class="light_grey">
+            <div class="light-grey_sec clearfix">
+               <div class="light-grey_lt">
+                  <div class="light-grey_sec">
+                     <h6>Lorem Ipsum Dolor sit Amet</h6>
+                     <h2 class="title" style="color:black;">The Causes of Motorcycle Accidents</h2>
+                     <p>Those who “ride” are vulnerable to a unique set of dangers on our roads. Even the most experienced are not immune to these dangers. Accidents can happen for a number of different reasons.</p>
+                     <div class="accident_in">
+                        <div class="accodian_acc">
+                           <h6 class="block1">Causes of a Motocycle Accident</h6>
+                           <p style="display:none;">A rewrite of the common causes of a motorcycle accident, so it is not a list. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras laoreet ex sed mattis fringilla. Maecenas lacinia dui id ante sollicitudin facilisis. Vivamus iaculis, ex vel interdum dictum, urna turpis cursus risus, eu condimentum justo mi et erat.</p>
+                        </div>
+                        <div class="accodian_acc">
+                           <h6 class="block1">Lorem Ipsum Dolor Sit Amet Consectetor</h6>
+                           <p style="display: none;">Injuries can be serious, even more so than in a vehicle that’s in an accident at the same speed as the motorcyclist. Common injuries include facial fractures, scrapes, and road rash; broken bones, disfigurement, serious internal injuries, and burns; limb amputations, spinal cord injuries, paralysis, and traumatic brain injuries (TBI).</p>
+                        </div>
+                        <div class="accodian_acc">
+                           <h6 class="block1">Common Injuries in a Motorcycle Accident</h6>
+                           <p style="display: none;">Injuries to motorcycle accident victims primarily involve fractures and burns. They can affect the face, any limb, internal organ or system. Injuries can be minor to disabling, such as spinal cord injuries, paralysis, traumatic brain injuries (TBI) and limb amputations. One of the most common injuries suffered in motorcycle crashes is road rash, when unprotected skin comes in contact with road surfaces as the victim slides after “laying down” his or her bike. It’s very painful and can be permanently disfiguring.</p>
+                        </div>
+                     </div>
+                     <p>If you’ve been injured in a motorcycle accident through no fault of your own, our Houston motorcycle accident attorneys <strong>can assist in</strong> your quest for full and fair compensation for your medical bills, lost wages, and other wreck-related expenses.</p>
+                  </div>
+               </div>
+               <div class="light-grey_rt">
+                  <div class="img_cnt" id="trucking-bg" style="background: url(https://www.terrybryant.com/wp-content/uploads/2017/05/TB_Motorcycles-Infographic.jpg)no-repeat;background-size: cover;">
+                  </div>
+                  <div class="img_cnt_btm">
+                     <span><a href="https://www.terrybryant.com/wp-content/uploads/2017/05/TB_Motorcycles-Infographic.jpg">Link out to inforgaphic, consectetur adipiscing elit. Integer cursus eu massa non ultrices. Vestibulum sed ornare augue. Proin at dapibus tellus. Fusce ultricies consectetur pulvinar.</a></span>
+                  </div>
+               </div>
+            </div>
+         </div>
+<!-- end-->
+
+<!--TEXAS ACCIDENTS start-->
+<div class="sub_block3 btm">
+            <div class="container-inn">
+               <div class="sub_block3_sec clearfix">
+                  <h2 class="title" style="padding-top:35px;">Motorcycle Accidents in Texas</h2>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat leo quis ante venenatis, et convallis neque blandit. Nunc vitae dui tristique, ornare urna vitae, ornare velit. Etiam imperdiet gravida est, vitae elementum velit mattis non. Sed tempor erat egestas hendrerit molestie. Etiam odio ligula, congue nec massa id, rhoncus volutpat tortor. Donec eget vulputate nunc, vel vehicula mauris. Morbi congue ipsum nisl, vel porta magna pellentesque quis. Vivamus quis ultricies odio.</p>
+                  <div class="sub_block3_inn clearfix">
+                     <div class="sub_block3_lt btm column-padding">
+                        <p style="text-align: center;"><iframe style="width:100%; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/1ezEeyuEqr9KGw" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></p>
+                        <div style="margin-bottom: 35px;text-align:center;"><strong> <a title="Motorcycle Accidents in Texas" href="//www.slideshare.net/terrybryantlawfirm/motorcycle-accidents-in-texas" target="_blank" rel="noopener">Motorcycle Accidents in Texas</a> </strong> from <strong><a href="https://www.slideshare.net/terrybryantlawfirm" target="_blank" rel="noopener">terrybryantlawfirm</a></strong></div>
+                     </div>
+                     <div class="sub_block3_rt btm column-padding">
+                        <h5 style="color:black;">TEXAS HELMET LAWS</h5>
+                        <p>Texas current helmet law states that motorcycle operators age 21 and over don’t need to wear a helmet if they've completed a motorcycle safety course or can show proof of a minimum $10,000 insurance coverage.</p>
+                        <p>But it is not unusual for a negligent defendant’s insurance company to deny benefits to injured bikers who don’t wear a helmet, claiming that if they didn't take protective cautions, why should the insurance company pay damages to this reckless rider?  Sometimes the ploy works. So even if you’re exempt from wearing a helmet, maybe you should wear one anyway, because they DO work, and it’s one less thing to worry about during the negotiation process.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat leo quis ante venenatis, et convallis neque blandit. Nunc vitae dui tristique, ornare urna vitae, ornare velit. Etiam imperdiet gravida est, vitae elementum velit mattis non.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+<!--TEXAS ACCIDENTS end-->
+
+<!--TESTIMONIAL start-->
+<div class="testimonial">
+    <h2>Accident Review</h2>
+    <p>One of my kids was involved in a traffic accident, and the attorneys at Terry Bryant took great care of us. Their knowledge and expertise resulted in a great outcome. Thank you!</p>
+    <div class="name">
+        <h5><strong>Robin G. -</strong> Terry Bryant Accident &amp; Injury Law</h5>
+        <h5><strong>5 / 5</strong></h5>
+    </div>
+</div>
+<!--TESTIMONIAL end-->
+
+</div>

@@ -1,0 +1,478 @@
+<style>
+#by {color: black;}
+#by .red-bg {background:#6d3238;}
+#by .four_box {display:flex;}
+#by h2 {text-transform:capitalize;}
+#by h5 { line-height:38px; color: #edd8bb; font-size: 29px;}
+#by .column-padding {padding: 0 75px;}
+#by .column_inn a { color: #000000; font-weight: 900; font-size: inherit; display: inline;}
+#by .LeftColumn { height:100%; }
+#by .leftcolumn_cnt {padding: 55px 75px 34px 78px;}
+#by .leftcolumn_cnt ul.clearfix {margin:0; padding:0;}
+#by .RightColumn { padding: 161px 61px 100px 151px; height:100%; }
+
+#by ul.button {padding: 0; margin: 0;}
+#by ul .btn-solid {background: white; color: #5a1820; line-height: 50px;}
+#by ul .btn-solid:hover {border:3px solid white; background: #6d3238; color: white;}
+#by ul .btn-outline {border:white; background: transparent;}
+
+#by img.bullet {padding-top: 12.5px; margin-right: 15px;}
+
+#by .Contingency {height:100%;}
+#by .tabs_main {padding: 0 80px 86px 80px;}
+#by .tabs_inner {padding: 40px 0 40px;}
+#by .tab_left {float: left;width: 48%;padding: 0;margin: 0px 10px;}
+#by .btn_sec.sec2 {margin: 20px 0 0 0;}
+#by .btn_sec ul li a {background:transparent; padding:0;}
+
+#by .light-grey_rt span:after { background: #f2e4d0; }
+
+#by .longer {background: #fff; color:black;}
+#by .longer_cnt h2 {color: black;}
+#by .longer_cnt p {color: black;}
+#by .longer_cnt ul { padding: 65px 45px 40px; }
+#by .longer_cnt ul li {width: 33%; margin-bottom: 50px;}
+#by .lawyers a {color: #6d3238; font-size: 18px;}
+#by .lawyers img {max-width:125px;}
+#by .longer_cnt button.btn {bottom: -28px;}
+
+#by .overhang {background:#f2e4d0}
+#by .overhang_rt h2 {color:black;}
+#by .overhang_rt p {color: black;}
+#by .overhang_rt p a {color:black;}
+#by .overhang_rt .btn_sec ul li button.btn {line-height: 54px;}
+#by .overhang_rt .btn_sec ul li button.btn2 {color:black;}
+#by .Praesent a {color: #6d3238; display: inline; font-weight: 900;}
+
+#by .txt_block {display: block; padding: 7.5%; text-align:center;}
+#by .txt_block h4 {color:#f2e4d0; text-transform:capitalize; position:relative; padding-bottom: 20px;}
+#by .txt_block h4:after {content: ''; position: absolute; top: 100%; width: 197px; left: 0; height: 5px; background: #f2e4d0; margin: 0 auto; right: 0;}
+#by .txt_block p {color:white;}
+#by .txt_block .btn_sec.sec1 ul li button { margin: 20px 0; }
+#by .txt_block .btn_sec ul {margin:0;}
+#by .txt_block .btn {line-height:55px;}
+#by .txt_block .btn.btn1 { width: 342px; background: white; color: black;}
+#by .txt_block .btn.btn1:hover {background: transparent; border: 3px solid white; color: white;}
+#by .txt_block .btn2:hover { border: 3px solid white; background: transparent;}
+
+#by .sub_block3.btm {padding: 105px 0 125px;}
+
+.testimonial {background-color:#6d3238; color:white; padding: 85px 0;}
+.testimonial h2 {text-align:center; margin: 0 auto; color:white; padding-bottom: 35px; margin-bottom: 35px;}
+.testimonial h2:after {content: ''; position: absolute; top: 100%; width: 197px; left: 0; height: 9px; background:white; margin: 0 auto; right: 0;}
+.testimonial p {padding: 0 20%; color:white;}
+.testimonial .name { text-align:center; padding-top:35px;}
+
+@media screen and (max-width:1024px) {
+	#by .LeftColumn { padding: 0; height: auto; }
+	#by .RightColumn { padding: 50px; height: auto; }
+	#by .tab_left { width: 100%; }
+	#by .img_cnt_btm { margin: 0; }
+	#by .testimonial p { padding: 0 10%; }
+}
+@media screen and (max-width:850px) {
+	#by .sub_block3_lt.btm, .sub_block3_rt.btm {width:100%;}
+}
+@media screen and (max-width:768px) {
+	#by h5 { font-size: 21px; font-weight: bold; }
+	#by .leftcolumn_cnt ul { padding: 0; margin: 0; }
+	#by .tabs_main { padding: 0 50px 50px 50px; }
+	#by .longer_cnt ul { padding: 65px 45px 0px; }
+	#by .lawyers a { font-size: 16px; text-transform: capitalize; font-weight: 700; }
+	#by .testimonial p {padding:0 10%;}
+}
+@media screen and (max-width:600px) {
+	#by h2 { font-size: 28px; font-weight: bold; letter-spacing: 1px !important; }
+	#by h5 { font-size: 18px; }
+}
+@media screen and (max-width:550px) {
+	#by .longer_cnt ul { padding: 50px 0 0 0; }
+	#by .longer_cnt ul li { width: 100%; }
+}
+@media screen and (max-width:500px) {
+	#by h2 { line-height: 32px; }
+}
+@media screen and (max-width:450px) {
+	#by .RightColumn { padding: 25px; }
+	#by .testimonial { padding: 50px 0; }
+}
+</style>
+
+<div id="by">
+
+<div class="four_box ">
+            <div class="four_box_cnt clearfix">
+               <div class="LeftColumn">
+                  <div class="leftcolumn_cnt">
+                     <ul class="clearfix">
+                        <li>
+                           <strong>1</strong>
+                           <div class="column_inn">
+                              <a href="#">LINK TO ANOTHER PAGE</a>
+                              <p>Every year in the United States, tens of thousands of people die in motor vehicle accidents. About 1 in 10 highway deaths occur in crashes involving large trucks, according to the <a href="http://www.iihs.org/research/fatality_facts_2009/largetrucks.html" target="_blank" rel="nofollow noopener">Insurance Institute for Highway Safety</a> (IIHS).</p>
+                           </div>
+                        </li>
+                        <li>
+                           <strong>2</strong>
+                           <div class="column_inn">
+                              <a href="#">LINK TO ANOTHER PAGE</a>
+                              <p>Considering their much heavier weight and overall mass, it can take big rigs almost 720 feet, or about two football fields, to stop. This stopping distance is far greater than that of passenger vehicles. If conditions are rainy and streets are slick, or if a truck’s brakes are poorly maintained, the stopping distance will be even longer.</p>
+                           </div>
+                        </li>
+                        <li>
+                           <strong>3</strong>
+                           <div class="column_inn">
+                              <a href="#">LINK TO ANOTHER PAGE</a>
+                              <p>Passenger vehicles and motorcycles are greatly outweighed by trucks, putting them at a severe disadvantage in wrecks. A fully loaded tractor-trailer can weigh as much as 80,000 pounds. The average passenger car weighs in at around 4,000 pounds. The heaviest motorcycles top the scale at approximately 500 pounds. With these things in mind, it isn’t difficult to see why occupants of passenger vehicles and motorcycles are often on the losing end in accidents with trucks.</p>
+                           </div>
+                        </li>
+                        <li>
+                           <strong>4</strong>
+                           <div class="column_inn">
+                              <a href="#">LINK TO ANOTHER PAGE</a>
+                              <p>What are some of the factors that cause large truck accidents? Truck driver inexperience, driver fatigue (data from the IIHS shows that drivers behind the wheel for more than 8 hours are twice as likely to crash), and equipment defects, including failures of brakes, lighting, and steering, are some of the reasons for truck crashes. Drivers of passenger vehicles also contribute to these crashes.</p>
+                           </div>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
+               <div class="RightColumn">
+                  <div class="RightColumn_cnt">
+                     <h2 class="title">Were you hurt in a truck accident? Contact a truck accident lawyer.</h2>
+<h5>If you have had the unfortunate experience of being injured in a truck wreck, Terry Bryant Accident &amp; Injury Law can help you understand your legal options.</h5>
+<p>Our <a href="/truck-accident/" rel="nofollow">Houston truck accident lawyers</a> know Texas, and we know the legal system. Use the form below to tell us about the accident or call 1 (800) 444-5000, and get a FREE initial consultation.</p>
+                        <ul class="button">
+                           <li><a href="/contact-us" rel="nofollow"><button class="btn btn1 btn-solid">REQUEST FREE CONSULTATION</button></a></li>
+                           <li><a href="/texas/testimonials.php" rel="nofollow"><button class="btn btn-outline">CLIENT TESTIMONIALS</button></a></li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+
+</div>
+
+<div class="sub_block3 btm">
+            <div class="container-inn">
+               <div class="sub_block3_sec clearfix">
+                  <h2 class="title">Why you need an attorney</h2>
+                  <h6>Subheader text goes here, lorem ipsum dolor sit amet concectetus nomad collater</h6>
+                  <div class="sub_block3_inn clearfix">
+                     <div class="sub_block3_lt btm column-padding">
+                        <p><strong>A truck accident attorney</strong> serves many functions for his or her client. They handle correspondence and paperwork so that the client can focus on their recovery and day-to-day activities. In cases involving large trucks, the process of filing a claim can be particularly time-consuming and daunting, because trucking accidents often involve companies that have their own legal teams. Hiring an attorney with experience in handling truck accident cases helps position your case for settlements that accurately reflect your needs.</p>
+                        <div class="Praesent btm"><span>If you chose to go it alone in your case, you might end up settling for an amount far lower than you’d receive if you had hired an attorney that knew how to build a case and fight for maximum compensation.</span></div>
+                        <h5 style="color:black;">Why Us</h5>
+                        <p>Terry Bryant is a Board Certified attorney and former judge in Texas. He is deeply familiar with the law and knows what it takes to get clients results they need. His handpicked legal team has built a reputation for the exceptional service they’ve provided clients. We have built respect among our peers and our community, but we don’t expect you to accept our credentials based solely on that reputation. We offer free consultations, so you can meet us personally and see for yourself why we’re suited to handle your case.</p>
+                     </div>
+                     <div class="sub_block3_rt btm column-padding">
+                        <h5 style="color:black;">What makes a good attorney?</h5>
+                        <p>The qualities you should look for in a truck accident attorney are…</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6"><strong>Experience - </strong>Your attorney should have a track record of success, particularly in cases involving large trucks and trucking companies.</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6"><strong>Attention to Detail – </strong>A good attorney is always thorough when building their client’s case. They pay close attention to every detail and maximize every opportunity.</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6"><strong>Resourceful – </strong>Ideally, your attorney should have access to plenty of resources, including a skilled legal team, researchers and expert witnesses. These cases can quickly become expensive, so it’s beneficial to have an attorney who has the resources to match those of a trucking or insurance company.</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6"><strong>Comfort with Client – </strong>You should expect a certain level of comfort with the firm you choose to represent you. You’ll be placing your trust in the attorney to make your case, so make sure you trust that they’ll be able to deliver.</p> 
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+
+<div class="Contingency ">
+            <div class="container-inn">
+               <div class="Contingency_cnt">
+                  <ul class="clearfix">
+                     <li>
+                        <a id="tab1" class="active"><em><img src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/icon5.png" alt="img" width="42" height="40"></em>
+                        Settlement vs. Trial</a>
+                     </li>
+                     <li>
+                        <a id="tab2" class=""><em><img src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/icon6.png" alt="img" width="42" height="40"></em>
+                        How do I know if I have a claim?</a>
+                     </li>
+                     <li>
+                        <a id="tab3" class=""><em><img src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/icon7.png" alt="img" width="42" height="40"></em>
+                        Who can be sued?</a>
+                     </li>
+                  </ul>
+                  <div class="tabs">
+                     <div class="tabs_main tab1" style="display: block;">
+                        <div class="tabs_inner clearfix">
+                           <div class="tab_left">
+                              <p><strong>A settlement</strong> is when both sides involved in a case (the plaintiffs and the defendants) agree to a specific amount of money to be paid to the injured party. The settlement is often the result of extended negotiations between the legal representatives of both parties.</p>
+                           </div>
+                           <div class="tab_left">
+                              <p><strong>A trial</strong> occurs when a settlement isn’t reached. Your attorney will present your case before a jury and argue with the defendant’s legal team. The jury will then decide whether the defendant was at fault and whether the plaintiff should be awarded compensation.</p>
+                           </div>
+                        </div>
+                        <div class="btn_sec sec2">
+                           <ul>
+                              <li><a href="/contact-us" rel="nofollow"><button class="btn btn1">REQUEST FREE CONSULTATION</button></a></li>
+                              <li><a href="/texas/testimonials.php" rel="nofollow"><button class="btn">CLIENT TESTIMONIALS</button></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="tabs_main tab2" style="display: none;">
+                        <div class="tabs_inner clearfix">
+                           <div>
+                              <p><strong>If the costs associated with your injuries</strong> are high and you suspect the truck driver’s negligence contributed to the accident, you should consider the possibility that you have a solid case to seek compensation. Ultimately, the best way to learn about your case’s chance of success is to contact an attorney that has experience with these types of cases and get a case evaluation. After learning more about the details of your situation, they’ll be able to give you a clearer picture of what to expect.</p>
+                           </div>
+                        </div>
+                        <div class="btn_sec sec2">
+                           <ul>
+                              <li><a href="/contact-us" rel="nofollow"><button class="btn btn1">REQUEST FREE CONSULTATION</button></a></li>
+                              <li><a href="/texas/testimonials.php" rel="nofollow"><button class="btn">CLIENT TESTIMONIALS</button></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="tabs_main tab3" style="display: none;">
+                        <div class="tabs_inner clearfix">
+                           <p style="margin-bottom:25px;"><strong>The truck driver or the trucking company</strong> that employs that driver can be held responsible if their negligence contributed to your accident. In some cases, there might be other parties named as defendants in a truck accident lawsuit. For example, if a defective truck part contributed to the accident, the manufacturer might also be held responsible for the costs associated with your injury.</p>
+                           <div class="tab_left">
+                              <p><strong>The statute of limitations</strong> refers to the amount of time you have to file an injury claim. In Texas, the statute of limitations is generally 2 years. (***ALWAYS CONSULT DIRECTLY WITH A LAWYER TO UNDERSTAND THE DEADLINES FOR YOUR POTENTIAL CLAIM.***)This is true not just of personal injury cases, but also for wrongful death and product liability cases, two case types that often stem from large truck accident cases.</p>
+                           </div>
+                           <div class="tab_left">
+                              <p><strong>You’ve seen the word “negligence”</strong> mentioned several times in your search for an attorney. It’s worth understanding the basic principle behind this legal term. Negligence means carelessness, and it implies that someone failed to act in a reasonable, acceptable manner. For example, a truck driver who is sending a text message when they should be focused on driving would be considered negligent. A drunk or impaired truck driver would also be considered negligent.</p>
+                           </div>
+                        </div>
+                        <div class="btn_sec sec2">
+                           <ul>
+                              <li><a href="/contact-us" rel="nofollow"><button class="btn btn1">REQUEST FREE CONSULTATION</button></a></li>
+                              <li><a href="/texas/testimonials.php" rel="nofollow"><button class="btn">CLIENT TESTIMONIALS</button></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+
+<div class="sub_block3 btm">
+            <div class="container-inn">
+               <div class="sub_block3_sec clearfix">
+                  <h2 class="title" style="padding-top:35px;">Common injuries and accidents</h2>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum accumsan nunc sed aliquet. Etiam nec nisi dolor. Pellentesque convallis, orci tristique placerat pharetra, tellus nisl ullamcorper nibh, ut dignissim mauris elit ac sem. Fusce pretium sem venenatis est tincidunt, et sagittis magna facilisis. Donec rhoncus aliquet neque nec maximus.</p>
+                  <div class="sub_block3_inn clearfix">
+                     <div class="sub_block3_lt btm column-padding">
+                        <h5 style="color:black;">Deaths and Truck Accidents</h5>
+                        <p>Truck accidents are notoriously severe, and the injuries that stem from these crashes are often fatal. When someone loses their life in a large truck accident, the surviving family members can file what is known as a wrongful death claim to get compensation.</p>
+                        <p>In Texas, wrongful death claims can be filed by the spouse, children or parents of the deceased.</p>
+                        <h5 style="color:black;">Common Injuries from Truck Accidents</h5>
+                        <p>Because commercial vehicles carry so much more size and weight than their smaller counterparts, a collision between a large truck and a passenger vehicle can result in some of the most devastating injuries imaginable.</p>
+                        <p><strong>This includes but is not limited to…</strong></p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Traumatic brain injuries</p> 
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Spinal cord injuries</p> 
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Fractures</p> 
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Internal organ damage</p> 
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Loss of limbs/amputations</p>
+                     </div>
+                     <div class="sub_block3_rt btm column-padding">
+                        <h5 style="color:black;">What to do after a truck accident</h5>
+                        <p>If you’ve been involved in an accident with a commercial vehicle…</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Call 911 to alert the authorities and, if someone is injured, request emergency medical responders.</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">If you are in harm’s way, do whatever possible to get to safety.</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Gather the name and insurance information of the truck driver.</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Avoid speaking to the truck driver at length, and never admit fault without knowing the facts of your case.</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Cooperate with the police officer that responds to the scene of your crash. They will use the information you provide in their police report.</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">If possible, take pictures of the scene with your phone and gather contact information of witnesses.</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">If there is even a possibility that you have suffered an injury, play it safe and visit a doctor to be tested and treated.</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Keep copies of anything you receive related to the crash – medical bills, vehicle damage repair bills or correspondence from insurance companies.</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">If your accident occurred in Texas, contact the truck accident attorneys at Terry Bryant Accident &amp; Injury Law to schedule a free consultation.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+
+<div class="column-padding txt_block red-bg">
+                        <h4>You don’t have to go it alone if you were involved in a truck crash.</h4>
+                        <p>As Houston truck accident attorneys, we see the injuries and damages that can occur from truck crashes. Let us help you get the compensation you need to recover from your injuries. Fill out the form below to receive a FREE initial consultation or call 1 (800) 444-5000.</p>
+                        <p><strong>To learn more about your legal options, contact us today.</strong></p>
+                        <div class="btn_sec sec1">
+                           <ul>
+                              <li><a href="/contact-us" rel="nofollow"><button class="btn btn1">REQUEST FREE CONSULTATION</button></a></li>
+                              <li><a href="/texas/testimonials.php" rel="nofollow"><button class="btn btn2">CLIENT TESTIMONIALS</button></a></li>
+                           </ul>
+                        </div>
+                    </div>
+
+<div class="light_grey">
+            <div class="light-grey_sec clearfix">
+               <div class="light-grey_lt">
+                  <div class="light-grey_sec">
+                     <h6>Lorem Ipsum Sub Title Goes Here</h6>
+                     <h2 class="title" style="color:black;">What does it take for a successful lawsuit?</h2>
+                     <p><strong>For a lawsuit to be successful,</strong> the injured party (the plaintiff) must be able to show that they have suffered injuries related to the accident. Typically, the greater the costs associated with the injury, the stronger the case. If the plaintiff demonstrates that the injury was caused by the parties on the other end of the lawsuit (the defendants), they will have grounds for a lawsuit.</p>
+                     <div class="accident_in">
+                        <div class="accodian_acc">
+                           <h6 class="block1 active">What expenses will the settlements cover?</h6>
+                           <p>The settlement will cover a range of expenses, including medical-related costs, missed time at work, lost income and property damage. In addition to these financial costs, there are other non-economic damages that might be recoverable in a claim, such as damages related to physical and mental pain and suffering.</p>
+                        </div>
+                        <div class="accodian_acc">
+                           <h6 class="block1">How much does an attorney cost?</h6>
+                           <p style="display:none">This depends on the attorney you choose to represent you. At Terry Bryant Accident & Injury Law, we offer a No-Fee Guarantee to our clients. This means that we work on a contingency fee and we earn a fee only if we win your case.</p>
+                        </div>
+                        <div class="accodian_acc">
+                           <h6 class="block1">How much can you get from a lawsuit?</h6>
+                           <p style="display:none">The amount you can expect from a truck accident cases varies, depending on several factors. The amount of the damages you’ve suffered and the liability of the other driver are both key factors that your attorney will consider when determining the compensation you should seek. simply because the injuries are more severe.</p>
+                        </div>
+                        <div class="accodian_acc">
+                           <h6 class="block1">What to do if the trucking company calls?</h6>
+                           <p style="display:none">You are under no obligation to speak to representatives from the trucking company. This is also true of the truck driver’s or trucking company’s insurance company. Direct these parties to your attorney so they can handle the correspondence.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="light-grey_rt">
+                  <div class="img_cnt">
+                  </div>
+                  <div class="img_cnt_btm">
+                     <span>Terry Bryant Accident & Injury Law has the resources, experience, and skill to get our clients results. We know how to build a case and what it takes to stand up to the interests of trucking and insurance companies. We won’t accept an offer that is less than you deserve, and we won’t accept a fee unless we win your case.</span>
+                  </div>
+               </div>
+            </div>
+         </div>
+
+<div class="longer">
+            <div class="container-inn">
+               <div class="longer_cnt">
+                  <h2 class="title">Causes of truck accidents</h2>
+                  <p><strong>A truck accident typically has the same underlying cause as most other types of crashes – human error. That comes in many forms, including…</strong></p>
+                  <ul class="clearfix">
+                     <li>
+                        <div class="lawyers">
+                           <em><img src="https://www.terrybryant.com/wp-content/uploads/2018/07/noun_texting_36469.png" alt="img"></em>
+                           <a href="#">Distraction</a>
+                        </div>
+                     </li>
+                     <li>
+                        <div class="lawyers">
+                           <em><img src="https://www.terrybryant.com/wp-content/uploads/2018/07/noun_weather-conditions_247168.png" alt="img"></em>
+                           <a href="#">Failure to adjust to driving conditions</a>
+                           <p></p>
+                        </div>
+                     </li>
+                     <li>
+                        <div class="lawyers">
+                           <em><img src="https://www.terrybryant.com/wp-content/uploads/2018/07/noun_fatigue_345479.png" alt="img"></em>
+                           <a href="#">Fatigue</a>
+                        </div>
+                     </li>
+                     <li>
+                        <div class="lawyers">
+                           <em><img src="https://www.terrybryant.com/wp-content/uploads/2018/07/noun_speeding_880461.png" alt="img"></em>
+                           <a href="#">Speeding</a>
+                        </div>
+                     </li>
+                     <li>
+                        <div class="lawyers">
+                           <em><img src="https://www.terrybryant.com/wp-content/uploads/2018/07/noun_drunk_5289.png" alt="img"></em>
+                           <a href="#">Impairment or intoxication</a>
+                        </div>
+                     </li>
+                     <li>
+                        <div class="lawyers">
+                           <em><img src="https://www.terrybryant.com/wp-content/uploads/2018/07/noun_Angry-Driver_880459.png" alt="img"></em>
+                           <a href="#">Aggressive driving</a>
+                        </div>
+                     </li>
+                  </ul>
+                  <a href="/contact-us" rel="nofollow"><button class="btn">CONTACT OUR LAWYERS</button></a>
+               </div>
+            </div>
+         </div>
+
+<div class="overhang">
+            <div class="container-inn">
+               <div class="overhang_sec clearfix">
+                  <div class="overhang_lt">
+                     <h6>Truck Accident Resources</h6>
+                     <h2 class="title">Accident FAQ</h2>
+                     <div class="vertical_scroll mCustomScrollbar _mCS_1 _mCS_2" style="overflow: hidden;"><div class="mCustomScrollBox mCS-light" id="mCSB_2" style="position: relative; height: 100%; overflow: hidden; max-width: 100%; max-height: 1px;"><div class="mCSB_container mCS_no_scrollbar" style="position:relative; top:0;"><div class="mCustomScrollBox mCS-light" id="mCSB_1" style="position: relative; height: 100%; overflow: hidden; max-width: 100%; max-height: 1px;"><div class="mCSB_container" style="position:relative; top:0;">
+                        <div class="custom-scroller">
+                           <ul>
+                              <li><span><a href="/victims-hit-drunk-truck-driver-looking-for-accident-lawyer" rel="nofollow">Victims Hit by a Drunk Driver Looking For an Accident Lawyer</a></span></li>
+                              <li><span><a href="/victims-food-truck-explosion-may-seek-lawyer-assistance" rel="nofollow">Victims of a Food Truck Explosion May Seek Lawyer Assistance</a></span></li>
+                              <li><span><a href="/victims-garbage-truck-injury-can-seek-attorney" rel="nofollow">Victims of a Garbage Truck Injury Can Seek an Attorney</a></span></li>
+                              <li> <span><a href="/victims-tow-truck-accident-often-look-for-lawyer" rel="nofollow">Victims of a Tow Truck Accident Considering a Lawyer</a></span></li>
+                              <li> <span><a href="/what-kinds-ups-truck-accidents-can-lawyer-help" rel="nofollow">What Kind of UPS Truck Accidents Can a Lawyer Help With?</a></span></li>
+                              <li> <span><a href="/what-normally-causes-truck-rollover-accident" rel="nofollow">What Normally Causes a Truck Rollover Accident</a></span></li>
+                              <li><span><a href="/what-will-truck-accident-lawyer-houston-need-prove-liability" rel="nofollow">What Will a 18 Wheeler Accident Lawyer in Houston Need to Prove Liability?</a></span></li>
+                              <li><span><a href="/when-should-victim-consider-hiring-trucking-accident-attorney" rel="nofollow">When Should a Victim Hiring a Trucking Accident Attorney?</a></span></li>
+                              <li><span><a href="/when-should-trucking-accident-victims-consider-lawyer" rel="nofollow">When Should Trucking Accident Victims Consider a Lawyer?</a></span></li>
+                              <li> <span><a href="/who-held-accountable-for-big-truck-accident-houston" rel="nofollow">Who is Liable For a Big Truck Accident in Houston?</a></span></li>
+                              <li> <span><a href="/who-liable-when-drunk-truck-driver-causes-accident" rel="nofollow">Who is Liable When a Drunk Truck Driver Causes an Accident?</a></span></li>
+                              <li> <span><a href="/who-liable-when-dump-truck-accident-injures-other-drivers" rel="nofollow">Who is Liable When a Dump Truck Accident Injures Other Drivers?</a></span></li>
+                              <li><span><a href="/why-are-trucking-accident-cases-difficult-pursue" rel="nofollow">Why are Trucking Accidents Cases Difficult to Pursue?</a></span></li>
+                           </ul>
+                        </div>
+                     </div><div class="mCSB_scrollTools" style="position: absolute; display: block;"><div class="mCSB_draggerContainer"><div class="mCSB_dragger" style="position: absolute; height: 51px; top: 0px;" oncontextmenu="return false;"><div class="mCSB_dragger_bar" style="position: relative; line-height: 51px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div></div><div class="mCSB_scrollTools" style="position: absolute; display: none;"><div class="mCSB_draggerContainer"><div class="mCSB_dragger" style="position: absolute; top: 0px;" oncontextmenu="return false;"><div class="mCSB_dragger_bar" style="position:relative;"></div></div><div class="mCSB_draggerRail"></div></div></div></div></div>
+                  </div>
+                  <div class="overhang_rt">
+                     <h6>Sub Header Lorem Ipsum Dolor</h6>
+                     <h2 class="title">Truck crash statistics</h2>
+                     <p>The most recently compiled fatal crash data shows that approximately 4,000 people died in truck crashes across the United States in 2016, according to the IIHS.  This number is an increase of 5.4% from the previous year. Of those killed, 17% were truck drivers or truck passengers; 66% were occupants in cars or other vehicles; 16% were motorcyclists, bicyclists, or pedestrians. Another 145,000 people nationwide were injured in truck-related accidents. In Texas alone, there were more than 35,600 truck (and bus) collisions in 2017, resulting in approximately 600 deaths, over 1,500 serious injuries, and thousands of less serious injuries, according to the <a href="ftp://ftp.dot.state.tx.us/pub/txdot-info/trf/crash_statistics/2009_update/25_2009.pdf" target="_blank" rel="nofollow noopener">Texas Department of Transportation</a>.</p>
+                     <span></span>
+                     <div class="btn_sec sec1">
+                        <ul>
+                           <li><a href="/contact-us" rel="nofollow"><button class="btn btn1">REQUEST FREE CONSULTATION</button></a></li>
+                           <li><a href="/texas/testimonials.php" rel="nofollow"><button class="btn btn2">CLIENT TESTIMONIALS</button></a></li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+
+<div class="sub_block3 btm">
+            <div class="container-inn">
+               <div class="sub_block3_sec clearfix">
+                  <h2 class="title" style="padding-top:35px;">Truck Laws and Regulations</h2>
+                  <p>Federal laws and regulations for truck drivers and trucking companies were designed to protect all drivers on the road — truck drivers and other motorists.</p>
+                  <p><strong>Truck operators must meet the following requirements:</strong></p>
+                  <div class="sub_block3_inn clearfix">
+                     <div class="sub_block3_lt btm column-padding">
+                        <h5 style="color:black;">To qualify to drive a truck, a person must:</h5>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Be 21 years of age or older and speak and read English.</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Be in good health and have a valid medical certificate.</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Be qualified to drive a truck and have a valid motor vehicle operator’s license.</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Pass a truck driver’s road test.</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Provide employer with a signed list of all motor vehicle violations, free of violations within the past 12 months.</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Know how to safely load and secure cargo for the truck.</p>
+                        <div class="Praesent btm"><span>To learn more about truck regulations and requirements, <a href="https://www.terrybryant.com/wp-content/uploads/2017/11/TerryBryantTruckAccident.jpg">view this Infographic</a>, or visit the <a href="https://www.fmcsa.dot.gov/" target="_blank" rel="nofollow noopener">Federal Motor Carrier Safety Administration</a>. This federal agency is tasked with providing safety oversight of trucks.</span></div>
+                        <h5 style="color:black;">Types of Trucks</h5>
+                        <p>There are several types of commercial vehicles that can be involved in these types of accidents.</p>
+                        <p><strong>This includes…</strong></p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Tractor-trailers – also known as semi-trucks or big rigs</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Bucket trucks</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Passengers buses</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Delivery trucks</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Garbage trucks</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Farm trucks or agricultural-related vehicles.</p>
+                     </div>
+                     <div class="sub_block3_rt btm column-padding">
+                        <h5 style="color:black;">While driving, a truck driver must:</h5>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Wear a seat belt at all times while operating the truck.</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Obey driving time restrictions and <a href="https://www.terrybryant.com/truck-accident/truck-accident-industry-demands">truck weight limits</a>..</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Comply with all safety standards and make sure the truck meets all requirements by regularly checking the following: brakes, tires, reflectors and warning devices, mirrors, lighting, steering systems, emergency equipment, etc.</p>
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Not possess or consume alcohol within four hours of being on duty.</p> 
+                        <p><img class="bullet" src="https://www.terrybryant.com/wp-content/themes/terrybryan/glm/images/bullet.png" alt="img" width="6" height="6">Not possess or consume drugs, including narcotics, derivatives, or amphetamines.</p>
+                        <h5 style="color:black;">When product liability causes accidents</h5>
+                        <p>In some cases, human error is not to blame for a truck accident. If a trucker’s actions didn’t contribute to the wreck, but a faulty vehicle part did, there are still legal options for the injured person. The manufacturer could be held accountable if they made a defective vehicle component, or the trucking company could be held responsible if they failed to maintain their truck.</p>
+                        <h5 style="color:black;">Where do truck accidents most often happen?</h5>
+                        <p>Large truck crashes are more likely to occur on rural roads than urban ones. From 2014 to 2016, 60% of crashes involving large trucks occurred on rural roads, as opposed to 37.7% on urban roads. Large truck crashes are <a href="https://www.fmcsa.dot.gov/safety/data-and-statistics/large-truck-and-bus-crash-facts-2016" target="_blank" rel="nofollow noopener">most likely</a> during the day (6 a.m. to 6 p.m.), Monday through Friday. This is when traffic is at its peak.</p>
+                        <p>While these statistics give us an indication of where and when these crashes are most likely, it’s important to remember that they can happen anywhere large trucks and passenger vehicles share the road.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+
+<div class="testimonial">
+    <h2>Client Review</h2>
+    <p>I was out of state in Houston, Texas and driving on a major highway in a Toyota Celica when a tractor trailer decided to change lanes and just didn’t see me. My car was lifted off the ground just enough that I lost control of the steering. It was terrifying. Several surgeries later, my life is back on track. I found Attorney Terry Bryant through a friend and he immediately made me feel like he would take care of everything. What I appreciated most is that Terry Bryant is not only – what I feel is the best personal injury attorney in Houston – but his team surrounds you and walks you through difficult situations like these with great compassion and empathy. Kudos to Gregg Anderson as well. Great lawyers. Great people. They really treat you like family.</p>
+    <div class="name">
+        <h5><strong>Jazz L. -</strong> Terry Bryant Accident &amp; Injury Law</h5>
+        <h5><strong>5 / 5</strong></h5>
+    </div>
+</div>
+</div>
+</div>

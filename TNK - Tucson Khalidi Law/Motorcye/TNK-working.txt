@@ -1,0 +1,191 @@
+<!--// START INTRO SECTION //-->
+<div class="intro-section-wrapper top-tier">
+<div class="intro-section-left">
+<h1 class="clear-space center-content"><strong>How Do I Know if I Have an Accident Claim?</strong></h1>
+<div class="spacer-bar"></div>
+<h2>If you’ve been injured in an accident as a result of another driver’s negligence, it’s almost certain that you have a claim. Determining fault in an accident is often the biggest question in a personal injury case.</h2>
+<p>Don’t assume that you know who was at fault in the accident. Even if you feel like you were at fault, the court may find in your favor or the insurance company may settle with you. The only way to know for sure whether or not you have a claim is to talk to a legal professional.</p>
+<div class="button-wrapper"><a class="button-solid" href="/contact_us/">Contact Khalidi Law</a><a class="button-outline" href="#">Secondary button</a></div>
+</div>
+<div class="intro-section-right" style="background-image: url('https://www.tnklaw.com/wp-content/uploads/2018/09/red-light-running-drivers-tucson.jpeg');"></div>
+</div>
+<!--// END INTRO SECTION - START SUB-TOPIC SECTION //-->
+<div class="full-width-container center-content">[do_widget id=execphp-2]</div>
+<!--// END SUB-TOPIC SECTION - START BIG-RIGHT SECTION //-->
+<div class="column-wrapper desktop-flex">
+<div class="column-small-left bg-dark-grey">
+<h3><strong>Why Are There So Many Collisions?</strong></h3>
+<p><strong>There are many causes of car accidents in the United States, including the following:</strong></p>
+<h5><strong>Distracted driving</strong></h5>
+<p><a href="https://www.tnklaw.com/vehicle-accidents/distracted-driving-crash/">Distracted drivers</a> are those who make or receive phone calls or text messages, use navigational devices, eat and drink, or otherwise fail to pay attention to the road are the No. 1 danger on the road.</p>
+<h5><strong>Drunk driving</strong></h5>
+<p>Too many people get behind the wheel after they have consumed alcohol, ignoring the fact that their reactions and judgment are impaired and they endanger themselves and others if they have a <a href="https://www.tnklaw.com/vehicle-accidents/tucson-dui-crash/">DUI crash.</a></p>
+<h5><strong>Reckless driving</strong></h5>
+<p>Making unsafe lane changes, speeding, and aggressive driving can lead to accidents that injure innocent people sharing the road.</p>
+<h5><strong>Weather conditions</strong></h5>
+<p>While a driver cannot control the weather, they can control their response to it, modifying their speed as is appropriate for the conditions. Multi-car pileups often result from accidents in bad weather.</p>
+<h5><strong>Defective vehicles</strong></h5>
+<p>A design or manufacturing flaw in an automobile or one of its components, like tires or headlights, can lead to a highway collision.</p>
+</div>
+<div class="column-big-right bg-grey">
+<h1>How Much Money Can I Get for My Car Accident Claim?</h1>
+<p>The amount you can receive in damages or a settlement for an accident varies, depending on your situation and the types of injuries you’ve sustained. While a relatively minor injury may bring a settlement in the thousands, a serious brain injury with lifetime consequences could result in a multimillion-dollar settlement.</p>
+<p><strong>There are six main factors determining the value of any given settlement:</strong></p>
+<ul class="nine showbullets">
+<li><strong>Medical expenses</strong>
+<p>Covers the cost of medical treatment you may have needed, to date.</p></li>
+<li><strong>Property damage</strong>
+<p>Generally applies to the expenses related to repairing or replacing your vehicle.</p></li>
+<li><strong>Lost earnings</strong>
+<p>Makes up for the amount of wages you weren’t able to earn if you missed work as a result of your injuries.</p></li>
+<li><strong>Future lost income</strong>
+<p>If it is going to take some time for you to recover your previous productivity, or if you are likely to be permanently disabled, this is meant to replace whatever future earning ability has been lost.</p></li>
+<li><strong>Estimated future medical expenses</strong>
+<p>If treatment and therapy for your injuries is ongoing, this will cover those medical costs.</p></li>
+<li><strong>Pain and suffering</strong>
+<p>Pain and suffering is meant to compensate for any physical and mental anguish you may have experienced as a result of your injury. It generally takes the form of a multiplier, ranging from 1.5 to 5 times what your settlement would otherwise be.</p></li>
+</ul>
+<div class="button-wrapper"><a class="button-solid" href="/contact_us/">Get a Free Consultation</a></div>
+</div>
+</div>
+
+<!--// END BIG-RIGHT SECTION - START TABBED QUESTIONS SECTION //-->
+<div class="full-width-container bg-white">
+<div class="questions">
+<ul class="clearfix">
+<li><a id="ques1" class="active"><span style="padding-left: 9px;">$</span>What to Expect in the Claims Process</a></li>
+<li class="full_tab"><a id="ques2"><span>?</span>The Appeals Process</a></li>
+</ul>
+<div class="question_content">
+<div class="ques_cnt ques1">
+<h3 style="margin:0;">Several factors affect the type and severity of auto accident injuries.</h3>
+<p>Some considerations are:</p>
+<ul class="showbullets five inline">
+<li><p>Was the person wearing a seat belt?</p></li>
+<li><p>Did the person’s car get hit from the rear, side or front?</p></li>
+<li><p>Was the occupant facing straight ahead in the seat? Or was the person’s head or body turned in a certain direction?</p></li>
+</ul>
+<ul class="showbullets five inline">
+<li><p>Was it a low-speed collision or a high-speed crash?</p></li>
+<li><p>Did the car have airbags?</p></li>
+</ul>
+<div class="button-wrapper"><a class="button-grey" href="https://www.tnklaw.com/verdicts_and_settlements/">verdicts &amp; settlements</a><a class="button-grey" href="https://www.tnklaw.com/contact_us/">Injured? let's talk</a></div>
+</div>
+<div class="ques_cnt ques2" style="display: none;">
+<h3 style="margin:0;">Roadway accidents can inflict numerous types of injuries on drivers and passengers.</h3>
+<p>These injuries can include:</p>
+<ul class="showbullets five inline">
+<li><a href="https://www.tnklaw.com/personal-injury/brain-injuries/">Brain and Head Injuries</a></li>
+<li>Neck Injuries</li>
+<li><a href="https://www.tnklaw.com/personal-injury/spinal-cord-injury-lawyer/">Spinal Cord Injuries</a></li>
+<li>Back Injuries</li>
+</ul>
+<ul class="showbullets five inline">
+<li>Facial Injuries</li>
+<li>Internal Injuries</li>
+<li>Psychological Injuries.</li>
+</ul>
+<div class="button-wrapper"><a class="button-grey" href="https://www.tnklaw.com/verdicts_and_settlements/">verdicts &amp; settlements</a><a class="button-grey" href="https://www.tnklaw.com/contact_us/">Injured? let's talk</a></div>
+</div>
+</div>
+</div>
+</div>
+<!--// END TABBED QUESTIONS - START EQUAL WIDTH SECTION //-->
+
+<div class="column-wrapper bg-grey desktop-flex">
+<div class="column-left content-padding">
+<h1><strong>Laws Related to Car Accidents that Impact Your Case</strong></h1>
+<div class="spacer-bar" style="margin-left:0;"></div>
+The two major laws that will affect your personal injury case are:
+<h5><strong>Statute of Limitations</strong></h5>
+The statute of limitations sets a time limit for how much time can pass after an accident before you are no longer eligible to file a lawsuit against the negligent party. The Arizona statute of limitations sets a two-year deadline for personal injury cases. This applies for cases of injury, vehicle damage, or wrongful death. You have two years after the date of the accident to file your suit.
+<h5><strong>Comparative Negligence</strong></h5>
+Arizona is a “comparative negligence” state, which means that under Arizona law, fault is not an “all or nothing” affair. For example, it’s possible that a court may find that the other driver was 90 percent responsible for the accident, while you were 10 percent responsible for it. In this example, you would receive 90 percent of the damages that would be awarded if the accident were entirely the other driver’s fault.
+<h2>Steps to Take After an Auto Accident in Tucson</h2>
+Esurance lists seven steps to follow if you’ve been involved in an accident. Remember that safety always comes first. The steps are as follows:
+<ul class="checkmarks" style="list-style:none;">
+ 	<li>Move to a safe area, if possible.</li>
+ 	<li>Stop your vehicle and get out.</li>
+ 	<li>Check on others involved.</li>
+ 	<li>Call 911.</li>
+ 	<li>Gather information from other driver and witnesses.</li>
+ 	<li>Document the scene by taking photos with your cellphone.</li>
+</ul>
+<p>It is also a good idea to avoid admitting fault. Contact an experienced Arizona car accident lawyer at the Khalidi Law Firm, PLLC, to handle communications with the insurance companies on your behalf.</p>
+<div class="button-wrapper"><a class="button-outline" style="float:right;margin:0;" href="/contact-us/">request free consult</a></div>
+</div>
+<div class="column-right" style="background-image: url('https://www.tnklaw.com/wp-content/uploads/2018/09/best-guide-motorcycle-classes-tucson.jpeg'); background-repeat: no-repeat; background-size: cover; background-position: center center;"></div>
+</div>
+<!--// END EQUAL WIDTH - START FULL WIDTH SECTION //-->
+<div class="full-width-container bg-white center-content">
+<h1 class="center-content"><strong>Arizona Is Not Immune</strong></h1>
+<div class="spacer-bar"></div>
+<p class="content-left">Arizona, with roughly 6.6 million people, ranks as the seventeenth most dangerous state in the country when it comes to <a href="https://www.tnklaw.com/vehicle-accidents/" rel="nofollow">vehicle accident fatalities</a>, and it is second only to Florida in the number of pedestrian deaths. The Advocates for Highway and Auto Safety grouped Arizona with eight other states "in the red," meaning that for various reasons the state ranks among the worst in the nation for traffic safety. What’s more, in 2013 the magazine Popular Mechanics ranked the 150-mile stretch of I-10 from Phoenix to California as the No. 1 most dangerous stretch of highway in the U.S., with an average of 85 deaths a year. In 2014 in Arizona alone, there were a total of 116,609 vehicle accidents, with 893 fatalities. Injuries and fatalities are tragic, but the damage doesn’t stop there. The NHTSA reports that the total costs in economic loss and societal harm topped $871 billion in 2010.</p>
+<div class="column-wrapper">
+<div class="content-left column-padding four" style="display:inline-block;vertical-align:top;">
+<h3>Types of Cases in a Single-Car Crash</h3>
+<p class="content-left">There are two main cases where a personal injury case can be undertaken in response to a single-car crash:</p>
+<ul class="showbullets">
+<li><strong>Passengers suing the driver</strong>
+<p>If you were the passenger in a car whose driver caused the accident leading to your injury, you can file a personal injury claim against the driver, or against the organization (such as a taxi company or public transit authority) which employs the driver.</p></li>
+<li><strong>Car’s occupants suing some other party whose negligence caused the accident</strong>
+<p>If a mechanic gives you bad repairs that lead to an accident, for example, you can file a suit against the mechanic. Organizations responsible for maintaining roads, etc., can also be sued in cases where they were negligent.</p></li>
+</ul>
+</div>
+<div class="content-left column-padding four" style="display:inline-block;vertical-align:top;">
+<h3>Getting Medical Treatment</h3>
+<p>Always seek medical treatment after an accident. Even if you don’t show obvious signs of an injury, you should still get yourself checked out. This is important for your health, but also because it’s necessary for you to get medical records of any injuries you receive.</p>
+<p>If you wait too long after the accident to seek medical treatment, it may be difficult or even impossible to prove that the injuries were the result of the accident. Some serious injuries may not be immediately obvious to someone who isn’t a medical professional. Seek care, both for your own health and for the sake of any future legal case. If you have questions about documenting medical care, contact our Tucson car accident attorney at Khalidi Law Firm to</p>
+</div>
+</div>
+</div>
+<!--// END FULL WIDTH - START BIG LEFT SECTION //-->
+<div class="column-wrapper desktop-flex">
+<div class="column-big-left bg-grey">
+<h1 class="center-content"><strong>Big title goes here</strong></h1>
+<div class="spacer-bar"></div>
+<h5><strong>The average car weighs roughly 3,500 pounds, and when something that heavy, going even at a slow rate of speed on any of Arizona’s highways and roads, collides with another vehicle, the results can be catastrophic.</strong></h5>
+<p>The damages aren’t always just in property damage and money; the costs often include the health of the driver and the passengers involved, both physical and psychological. The car accident lawyers of Khalidi Law Firm, PLLC are here to help those injured in motor vehicle collisions by filing personal injury claims against the negligent parties responsible for these injuries.</p>
+<div class="callout">When you are in an accident, your life changes in an instant. Let a Tucson car accident lawyer at TNKLaw put their skills and decades of experience to work for you.</div>
+<h2>What to Do After a Car Crash: Advice from Our Tucson Car Accident Lawyers</h2>
+<p>If you or a loved one has been the victim of an auto accident, contact the Khalidi Law Firm, PLLC as soon as possible for a free consultation to evaluate the merits of your claim. We receive no attorney fees unless we secure financial compensation for your injuries. Any expenses advanced by the law firm are recouped from the settlement or judgement.</p>
+<h2>Contact Our Car Accident Lawyer in Tucson</h2>
+<p>f you have been in car accident, contact the <a href="https://www.tnklaw.com/">Khalidi Law Firm, PLLC</a> today. Our team of experienced lawyers can help you obtain just compensation from a negligent driver, auto manufacturer, or other entity which was responsible for your injury. Set up a free consultation today to make sure your rights are protected by our Tucson car accident attorney.</p>
+</div>
+<div class="column-small-right bg-dark-grey">
+<h2>Here, There and Everywhere</h2>
+<p>Nearly everyone that drives has been the victim of an auto accident at some time or another. What many people don’t realize is how common accidents are, or the impact they often have overall. The <a href="http://asirt.org/initiatives/informing-road-users/road-safety-facts/road-crash-statistics" target="_blank" rel="nofollow noopener">Association of International Road Travel</a> has compiled some statistics that give a good overview:</p>
+<ul class="showbullets">
+ 	<li>Each year, over 37,000 people die in vehicle crashes.</li>
+ 	<li>In addition to those deaths, 2.35 million are injured or disabled each year.</li>
+ 	<li>More than 1,600 children under 15 years old die in highway accidents each year.</li>
+ 	<li>Nearly 8,000 people are killed in crashes involving drivers ages 16-20.,</li>
+ 	<li>The cost of crashes on U.S. roads reaches $230.6 billion per year (this averages $820 per person)</li>
+ 	<li>For U.S. citizens traveling abroad, road wrecks are the most common cause of death.</li>
+</ul>
+<h2>Infographic: Self-Driving Cars</h2>
+<a class="venobox vbox-item" title="INFOGRAPHIC: Self-Driving Cars" href="https://www.tnklaw.com/wp-content/uploads/2018/07/TNK-Self-Driving-Cars-Infographic.jpg" data-gall="super"><img src="https://www.tnklaw.com/wp-content/uploads/2018/07/self-driving-car-infographic-thumb.jpg" alt="Tucson car accident lawyer infographic" /></a>
+<a href="https://www.tnklaw.com/wp-content/uploads/2018/07/TNK-Self-Driving-Cars-Infographic.pdf" target="new" rel="nofollow">Infographic PDF</a>
+</div>
+</div>
+<!--// END FULL WIDTH - START CALL TO ACTION SECTION //-->
+<div class="full-width-container fixed-bg-section-dark center-content" style="background-image:url('https://www.tnklaw.com/wp-content/uploads/2017/06/car-crash-tucson.jpg');background-repeat:no-repeat;background-size:cover;position:relative;">
+ <div class="cms-overlay-color" style="background-color: #635f99; opacity: 0.9;"></div>
+  <div class="fixed-bg-content">
+   <h2>Our attorneys have more than two decades’ experience litigating auto accident claims</h2>
+   <div class="spacer-bar center-content" style="background-color:white;"></div>
+   <p class="content-left">Located in Tucson’s Barrio Historico, the firm is familiar and experienced with Arizona law and will make sure your concerns are addressed, and that you or your loved one receives treatment and compensation for any short- or long-term effects of an accident caused by a negligent driver. We help our clients in both English and Spanish.</p>
+   <h3>Call us to set up a free consultation to analyze and judge the merits of your claim.</h3>
+  </div>
+  <div class="button-wrapper" style="display:block;position:relative;">
+   <a class="button-outline" href="/contact/" target="new" style="margin:0 auto;">Contact TNK Law</a>
+  </div>
+ </div>
+</div>
+<!--// END CALL TO ACTION - START BLOG ARTICLES //-->
+<div class="inline-blog-articles full-width-true bg-black center-content">
+<h2>Tucson Car Accident Articles</h2>
+<div class="spacer-bar"></div>
+[do_widget id=rpwe_widget-7]
+</div>
+<!--// START BLOG ARTICLES //-->

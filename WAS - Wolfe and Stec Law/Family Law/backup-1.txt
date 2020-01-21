@@ -1,0 +1,124 @@
+<!--INTRO SECTION start-->
+<div class="intro-sec full-width bg-dark-tan center-text">
+<div class="container">
+<h2>Intro Section Title Goes Here</h2>
+<div class="row">
+<div class="column col_6">
+<p><strong>When families disintegrate, the emotional and financial results can be devastating.</strong> Divorce, child custody disputes, and many other <a href="/family-law-attorneys/">family law</a> issues that arise are sensitive and life-changing. They can rarely be resolved amicably on your own, and trying to do so often complicates matters even more. That’s when you need a family law attorney to help you through this difficult time. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis rhoncus risus, ut mollis mauris. Ut sollicitudin tortor in pellentesque convallis. Sed vel enim magna.</p>
+</div>
+<div class="column col_6">
+<p>The experienced and compassionate Illinois <a href="/family-law-attorneys/">family law attorneys</a> at <a href="/firm-overview/">Wolfe &amp; Stec, Ltd.</a>, always focus on our clients’ needs and feelings, and we work to resolve the issues they are facing in the most effective and efficient manner. Whether you need advice about a divorce or help with guardianship, we offer free consultations and will help you find the best solution for your individual situation. With office locations in <a href="/woodridge-office/">Woodridge</a> and Chicago, we represent clients throughout the entire Chicagoland area.</p>
+</div>
+</div>
+<div class="links"><a class="default_red_link" href="/contact/" rel="nofollow">request free consult</a></div>
+<p>Call our <a href="/woodridge-office/">DuPage County</a> family law attorneys today at 630-305-0222 or 312-388-7882 to schedule your free initial consultation.</p>
+</div>
+</div>
+<!--INTRO SECTION end-->
+
+<!--STRATEGY start-->
+<div class="strategy">
+<div class="strategy-lt column col_6">
+<h2>Family Law Attorneys Serving DuPage &amp; Cook Counties</h2>
+<p>Family law is complex and encompasses a range of issues, including marriage, divorce, child custody, adoption, paternity, and other matters related to the family structure. Family laws also address controversial issues such as abortion rights and same-sex marriage, and also criminal matters like domestic violence and child abuse. Illinois family laws may differ somewhat from those in other states. For example, in 2003 the Illinois Supreme Court ruled that a man who acknowledges paternity cannot reverse this later on the basis of DNA testing. And in 2013, the state legislature legalized same-sex marriage. Our experienced attorneys at Wolfe &amp; Stec know the system and can help you through the myriad laws dealing with family issues.</p>
+</div>
+<div class="strategy-rt column col_6">
+<div class="strat-rt-main">
+<h4>Wide Range of Family Law Concerns</h4>
+<p>Our family law attorneys handle a variety of legal concerns facing families in Illinois. In addition to divorce and child custody issues, our lawyers assist clients with:</p>
+<ul style="margin: 0 0 0 40px;">
+ 	<li><a href="https://www.wolfeandstec.com/family-law-attorneys/other-family-law-issues/abuse-neglect/">Abuse &amp; Neglect</a></li>
+ 	<li><a href="https://www.wolfeandstec.com/family-law-attorneys/other-family-law-issues/adoptions/">Adoptions</a> -- Illinois Adoption Laws include areas such as who may be adopted; the age of consent for adoption; home residency requirements.</li>
+ 	<li><a href="https://www.wolfeandstec.com/family-law-attorneys/other-family-law-issues/domestic-abuse/">Domestic Abuse</a> - If you are in immediate danger seek legal help and call the <a href="http://www.thehotline.org/" target="new">National Domestic Violence Hotline,</a> 1-800-799-SAFE.</li>
+ 	<li><a href="https://www.wolfeandstec.com/family-law-attorneys/other-family-law-issues/orders-of-protection/">Orders of Protection</a> -- Illinois Protective Order Laws, which are commonly called "restraining orders” are often needed if you are a victims of domestic violence or threatened or stalked by former spouses.</li>
+ 	<li><a href="https://www.wolfeandstec.com/family-law-attorneys/other-family-law-issues/paternity/">Paternity</a></li>
+ 	<li>Wills, Trusts, and Guardianships and Estate Planning</li>
+</ul>
+</div>
+</div>
+</div>
+<!--STRATEGY end-->
+
+<!--PARA CONTACT start-->
+<div class="para-contact parallax_section" style="background-image: url(http://wolfestec.wpengine.com/wp-content/uploads/2018/10/illinois-courtroom.jpg); background-position: right 103px;">
+<div class="para-contact-ov"></div>
+<div class="container">
+<div class="row">
+<div class="column col_6">
+<div class="section_title textleft">
+<h2>Our Lawyers Know that Sensitivity Matters</h2>
+</div>
+<p>Family law issues can stir up a lot of negative emotions for people – pain, sadness, embarrassment, resentment – but there is help available, and you may find comfort in knowing a lawyer is on your side. The seasoned attorneys at Wolfe &amp; Stec handle all Illinois family law cases with sensitivity, respect, and discretion.</p>
+</div>
+<div class="column col_6">
+<p>At <a href="/firm-overview/" rel="nofollow">Wolfe &amp; Stec, Ltd.,</a> we made our reputation one client at a time, and we put every ounce of our ability into every case. There are no ready-made solutions in divorce and family law – every case needs to be considered on its own merit. Our lawyers take the time to delve deeply into the problem and to understand your goals and concerns. Then we develop a legal strategy designed to achieve those objectives.</p>
+<p><strong>There is no charge for the first consultation, and we are happy to schedule appointments at either of our offices, located in <a href="/woodridge-office/">Woodridge</a> and Chicago.</strong> Delaying can only complicate your situation and make matters worse. Call us today for your free consultation at 630-305-0222 or 312-388-7882 or <a href="/contact/" rel="nofollow">contact our team online</a>.</p>
+<div class="links"><a class="default_red_link" href="/attorneys/" rel="nofollow">our attorneys</a><a class="default_red_link default_red_link2" href="/contact/" rel="nofollow">contact</a></div>
+</div>
+</div>
+</div>
+</div>
+<!--PARA CONTACT end-->
+
+<!--OFFENSE start-->
+<div class="offense section bg-white accordian_section intro_section">
+<div class="container">
+<div class="section_title textcenter">
+<h2><b style="background-color:#F9F9F9;">Major Problems We Deal With Include...</b></h2>
+</div>
+<div class="row">
+<div class="column col_6">
+<h3>Divorce &amp; Separation in Illinois</h3>
+<p><strong><a href="/family-law-attorneys/divorce/">Divorce</a>: Divorce is one of the most common family law issues.</strong> In Illinois, both fault and no-fault grounds are allowed; or you can base your divorce on the fact that you’ve been separated from your spouse for at least two years (six months if both parties agree). There is a residency requirement that at least one spouse must be a resident of Illinois for 90 days before filing for divorce. Property is divided by equitable division.</p>
+<p>Even if a marriage ends amicably, you need legal guidance, as one small mistake could have serious consequences. Once a divorce decree is final, it cannot be changed, and you’re most likely stuck with its terms.</p>
+<p style="margin:0;padding:0;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse neque orci, vulputate ornare semper laoreet, rutrum ut velit. Sed est velit, rutrum ac faucibus vel, ornare eget metus. Vivamus turpis odio, finibus a arcu a, interdum aliquet urna. In semper justo ante. Suspendisse tincidunt, nibh sit amet sagittis elementum, erat libero cursus velit, in vestibulum tellus erat a velit. Sed non cursus quam. Morbi id ullamcorper leo. Curabitur et posuere tellus. Phasellus laoreet elit id lacus elementum, a gravida tellus accumsan. Nullam vestibulum porttitor lorem vitae porta. Sed eu tortor vitae lacus finibus interdum.</p>
+</div>
+<div class="column col_6">
+<h3>Child Custody &amp; Support in Illinois</h3>
+<p><strong><a href="/family-law-attorneys/child-custody/">Child Custody</a>: When it comes to the lives of your children</strong>, you want to come to an agreement that will provide the best possible outcome for their futures, but you also need to protect your financial well-being. Parents should never try to negotiate custody or support obligations without the help of experienced child custody lawyers. The laws and guidelines can be difficult to interpret, and making a mistake could mean returning to court and nasty drawn-out battles that adversely affect your children.</p>
+<p>Illinois courts begin with a presumption that it’s best for a child to have frequent and continuing contact with both parents after a divorce. If possible, judges want to support joint custody arrangements. <a href="http://www.ilga.gov/legislation/ilcs/ilcs4.asp?ActID=2086&amp;ChapterID=59&amp;SeqStart=8300000&amp;SeqEnd=10000000" target="new">Illinois Child Custody Laws</a> govern child custody decisions and procedures, including information about the availability of grandparents' visitation rights.</p>
+<p style="margin:0 0 15px;"><strong>Custody issues our Illinois family law attorneys handle with our clients include:</strong></p>
+<ul style="margin: 0 0 40px 20px; list-style-type:square;">
+ 	<li><a href="/family-law-attorneys/child-support/">Child Support</a>: Illinois requires all parents to support their children. The amount of child support depends primarily on each parent’s income and other resources and how much time each parent spends with the children. <a href="http://www.alllaw.com/calculators/childsupport/illinois" target="_blank" rel="nofollow noopener noreferrer">Here are some child support calculators to give you an idea of state guidelines.</a></li>
+ 	<li><a href="https://www.wolfeandstec.com/family-law-attorneys/child-custody-removal/">Child Custody Removals</a></li>
+ 	<li><a href="https://www.wolfeandstec.com/family-law-attorneys/parenting-agreements-plans/">Parenting Agreements/Plans</a></li>
+ 	<li><a href="https://www.wolfeandstec.com/family-law-attorneys/non-parent-custody/">Non-Parent Custody</a></li>
+ 	<li><a href="https://www.wolfeandstec.com/family-law-attorneys/visitation/">Visitation</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!--OFFENSE end-->
+
+<!--TESTIMONIALS start-->
+<div class="section testimonial">
+<div class="container">
+<div class="section_title">
+<h3>Family Law Review</h3>
+</div>
+<div class="slider slick-initialized slick-slider"><button type="button" data-role="none" class="slick-prev slick-arrow" aria-label="Previous" role="button" style="display: block;">Previous</button>
+<div aria-live="polite" class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 4000px; transform: translate3d(-2000px, 0px, 0px);" role="listbox"><div class="slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" style="width: 1000px;" tabindex="-1">
+<h3>Worth Every Penny</h3>
+<em>Natalie is very quick to get back to me with any concerns that I may have. She keeps me informed on court dates and any hearings or work she's done. She's smart when it comes to the law.
+<strong>5 out of 5 stars</strong></em>
+</div><div class="slick-slide" data-slick-index="0" aria-hidden="true" style="width: 1000px;" tabindex="-1" role="option" aria-describedby="slick-slide00">
+<h3>Fabulous &amp; Straight Forward - Very Easy to Work With</h3>
+<em>Natalie is incredibly qualified and knowledgeable in her field. She is a straight shooter and gets the job done. When it comes to your case and the direction to take she is honest, ethical, and trustworthy.
+There was never a question as to where we were in the process or where we were going. I trusted her with my case - completely. She was very easy to work with and kept me apprised of upcoming court dates and details regarding discussions with OC.
+I highly recommend Natalie as an attorney.
+<strong>5 out of 5 stars</strong></em>
+</div><div class="slick-slide slick-current slick-active" data-slick-index="1" aria-hidden="false" style="width: 1000px;" tabindex="-1" role="option" aria-describedby="slick-slide01">
+<h3>Worth Every Penny</h3>
+<em>Natalie is very quick to get back to me with any concerns that I may have. She keeps me informed on court dates and any hearings or work she's done. She's smart when it comes to the law.
+<strong>5 out of 5 stars</strong></em>
+</div><div class="slick-slide slick-cloned" data-slick-index="2" aria-hidden="true" style="width: 1000px;" tabindex="-1">
+<h3>Fabulous &amp; Straight Forward - Very Easy to Work With</h3>
+<em>Natalie helped me throughout my divorce process. She took the time to explain my situation, the 'pro's and con's', course of action, and after actions of the divorce. She was easy to communicate with via email and scheduled phone times. Natalie is very knowledgeable in her field of expertise. She made my divorce process much easier to go through. I would recommend her to anyone and everyone.
+<strong>5 out of 5 stars</strong></em>
+</div></div></div>
+<button type="button" data-role="none" class="slick-next slick-arrow" aria-label="Next" role="button" style="display: block;">Next</button></div>
+<div class="link textcenter"><a class="default_red_link" href="/testimonials/">all testimonials</a></div>
+</div>
+</div>
+<!--TESTIMONIALS end-->

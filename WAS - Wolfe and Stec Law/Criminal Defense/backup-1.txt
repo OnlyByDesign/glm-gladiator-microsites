@@ -1,0 +1,337 @@
+<div class="full-width bg-dark-tan center-text">
+<div class="container">
+<h2>Section Title</h2>
+A criminal record will negatively impact many aspects of your life, such as your educational and career aspirations, your family relationships, your housing situation, and any immigration benefits. At this sensitive time, you need all the help you can get.
+<div class="standout">Being accused of a crime is bad enough, but if you are convicted, our DuPage County criminal attorney knows your life could be changed forever.</div>
+Cras non pulvinar nulla, et molestie massa. Aliquam porta iaculis augue in cursus. Pellentesque tristique aliquam justo, sed faucibus eros sollicitudin non. Duis interdum, sem id pulvinar efficitur, lorem ante fringilla enim, et faucibus nunc dui eget nunc. Curabitur enim diam, egestas eget sem et, viverra ullamcorper dolor. Nulla vulputate ac sem ut tincidunt. Maecenas suscipit orci ac hendrerit vehicula. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec quis eros tristique, lacinia urna at, feugiat leo. Phasellus eros lacus, accumsan vel finibus sed, lobortis nec diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin enim dolor, lacinia ultricies mauris at, vestibulum efficitur nulla. Cras felis justo, volutpat sit amet ante vehicula, commodo consectetur nisi.
+<div class="links"><a class="default_red_link" href="/contact/" rel="nofollow">request free consult</a></div>
+</div>
+</div>
+
+<!--SCROLL AND FAQs SECTION start-->
+<div class="section bg-light-tan accordian_section intro_section">
+<div class="container">
+<div class="section_title textcenter">
+<h2>Why You Need a Criminal Defense Attorney</h2>
+</div>
+<div class="row">
+<div class="column col_6">
+<div class="m_customScroll">If you are accused of a crime in Illinois, your life could be on the line.  A conviction will mean a criminal record that will be with you forever and negatively impact your educational and career aspirations, your family relationships, your housing situation, and any immigration benefits.Depending on the crime and your situation, you might face:
+<ul>
+ 	<li>Incarceration</li>
+ 	<li>Fines, penalty assessments and other costs</li>
+ 	<li>Registration as a sex offender</li>
+ 	<li>Driver’s license suspension or revocation</li>
+ 	<li>Permanent criminal record</li>
+ 	<li>Mandatory installation of an ignition interlock device (IID)</li>
+ 	<li>Required completion of classes and/or counseling</li>
+ 	<li>Probation</li>
+</ul>
+<div class="standout">This is no time to go it on your own or count on an overworked and underpaid public defender. Make sure you hire a knowledgeable and experienced Dupage County criminal attorney who can fight for your rights and your freedom. Contact Wolfe &amp; Stec today.</div>
+<p class="in_cont_btn" style="text-align: center;"><a class="btn" href="/contact/" rel="nofollow">GET YOUR CRIMINAL DEFENSE HELP</a></p>
+
+</div>
+</div>
+<div class="column col_6">
+<div class="accordian">
+<ul class="accordian_list">
+ 	<li>
+<div class="question">
+<h6>SHOULD I GET A PUBLIC DEFENDER?</h6>
+</div>
+<div class="answer">
+
+If you can’t afford a private attorney, Illinois law states that a Public Defender will be appointed to provide legal representation in the areas of criminal, misdemeanor, juvenile justice, child protection, paternity, appeals, post-conviction and traffic cases.
+Unfortunately, the public defense systems may not be capable of providing the defense you deserve.  According to the U.S. Department of Justice, in 2007, <a href="http://www.bjs.gov/content/pub/pdf/clpdo07.pdf" target="_blank" rel="nofollow noopener">about 73%</a> of county public defender offices exceeded the maximum recommended <a href="http://www.nlada.org/Defender/Defender_Standards/Standards_For_The_Defense#thirteentwelve" target="_blank" rel="nofollow noopener">limit</a> of cases (150 felonies or 400 misdemeanors). Under pressure, public defenders may be quick to accept inadequate plea bargains and will not be able to devote the time and individual attention necessary to give you the best outcome possible and keep you out of jail.
+
+</div></li>
+ 	<li>
+<div class="question">
+<h6>SHOULD I REPRESENT MYSELF?</h6>
+</div>
+<div class="answer">
+
+Representing yourself in a criminal case is rarely a good idea. If you are even considering going <em>pro se,</em> look at the punishment you might face if convicted – the more severe the potential punishment, the more important it is that you are represented by counsel.
+If you do represent yourself, be aware of the work involved.  You will have to properly fill out forms and attend hearings, meet all deadlines, know the laws, understand legal terminology and follow the rules of the court.  If you do go to trial, you will have to produce and examine witnesses and make opening and closing arguments in your defense. The consequences of making a mistake can ruin the rest of your life.
+
+</div></li>
+ 	<li>
+<div class="question">
+<h6>WHAT MAKES A GOOD CRIMINAL DEFENSE ATTORNEY?</h6>
+</div>
+<div class="answer">
+
+An experienced DuPage County criminal defense lawyer will know the laws, the courts, the prosecutors and the judges, and how to examine the individual facts of your case and determine the best way to launch your defense. A good attorney will take care of paperwork, file everything properly and on time, and be capable of negotiating with the prosecutor and getting you the best deal possible. If your case does go to trial, a good attorney will find expert witnesses, and know how to present your case and how to advocate for your best interests in court. If your case doesn’t turn out in your favor, a good attorney will know how to file an appeal and get your sentence reduced. And a good criminal attorney should be someone you can relate to, who understands your situation and makes you feel relaxed and confident of achieving the best outcome of your case.
+
+</div></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- SCROLL AND FAQs SECTION end-->
+
+<!--GRID SECTION start-->
+<div class="grid_section bg-dark-green-grid">
+<h3><b>Criminal Defense Services</b></h3>
+<h6>Our criminal defense attorneys at Wolfe &amp; Stec have extensive experience handling complex criminal cases and are trusted and respected in the community.
+We handle a broad range of cases throughout Illinois, including:</h6>
+<div class="container">
+<div class="row">
+<div class="col col_3">
+<div class="icon eql"></div>
+<h4><a href="/criminal-law/misdemeanors/">MISDEMEANORS</a></h4>
+</div>
+<div class="col col_3">
+<div class="icon eql"></div>
+<h4><a href="/criminal-law/felonies/">FELONIES</a></h4>
+</div>
+<div class="col col_3">
+<div class="icon eql"></div>
+<h4><a href="/criminal-law/drug-crimes/">DRUG CHARGES</a></h4>
+</div>
+<div class="col col_3">
+<div class="icon eql"></div>
+<h4><a href="/criminal-law/weapons-charges/">WEAPONS CHARGES</a></h4>
+</div>
+<div class="col col_3" style="border-bottom: 0px;">
+<div class="icon eql"></div>
+<h4><a href="/criminal-law/dui/">DUI / DWI</a></h4>
+</div>
+<div class="col col_3">
+<div class="icon eql"></div>
+<h4><a href="/criminal-law/violent-crimes/homicide-murder/">MURDER</a></h4>
+</div>
+<div class="col col_3">
+<div class="icon eql"></div>
+<h4><a href="/criminal-law/white-collar-crimes/">WHITE COLLAR</a></h4>
+</div>
+<div class="col col_3">
+<div class="icon eql"></div>
+<h4><a href="/criminal-law/sex-crimes/">SEX CRIMES</a></h4>
+</div>
+</div>
+</div>
+</div>
+
+<!--GRID SECTION end-->
+<div class="full-width bg-lighter-tan center-text">
+<div class="container">
+<h2>What Are Your Rights?</h2>
+If you are arrested for a crime in Illinois, it’s important to know your rights so you can avoid making mistakes that may inadvertently lead to a conviction. You have the following rights:
+<ul>
+ 	<li><strong>Arrest warrant</strong> -- Anyone faced with a criminal arrest has a right to ask to be shown an arrest warrant and informed of what the criminal charges are. However, you can be arrested without a warrant if the police have probable cause.</li>
+ 	<li><strong>Miranda rights</strong> -- After being arrested, you should be read your Miranda rights informing you that you have the right to remain silent and not answer questions.</li>
+ 	<li><strong>Right to an attorney</strong> – You have the right to ask to consult with a lawyer before you say anything, as anything you do say can be held against you.</li>
+ 	<li><strong>Right to a preliminary hearing</strong> -- If the arrest is for a felony offense, any charges must be approved at a preliminary hearing by a judge or grand jury to authorize probable cause for the charges.</li>
+ 	<li><strong>Bond</strong> -- If probable cause is found, you have the right to a bond hearing to set an amount of bail which will allow you to remain out of custody until trial.</li>
+</ul>
+</div>
+</div>
+
+<!--PARALLAX SECTION start-->
+<div class="parallax_section" style="background-image: url('/wp-content/uploads/2018/10/background2-2.png');">
+<div class="container">
+<div class="row">
+<div class="column col_6">
+<div class="section_title textleft">
+<h3>Start Your Defense</h3>
+</div>
+The experienced and seasoned DuPage county criminal defense attorneys at Wolfe &amp; Stec, Ltd., understand the seriousness of your situation and offer aggressive representation for clients facing criminal charges. We know the courts and the criminal justice system and how to plea bargain, negotiate guidelines and recognize when to take your case to trial. When we take on a criminal case, we gather information quickly and look at all viable defense options. Based on the facts, we make a decision about the best legal strategy.
+
+</div>
+</div>
+<div class="links"><a class="default_red_link" href="/attorneys/" rel="nofollow">our attorneys</a><a class="default_red_link default_red_link2" href="/contact/" rel="nofollow">contact</a></div>
+</div>
+</div>
+<!--PARALLAX SECTION end-->
+
+<!--STEPS SECTION start-->
+<div class="steps bg-dark-tan">
+<h2 class="textcenter">How Does the Court System Work?</h2>
+<p class="textcenter">In Illinois, the following are the steps a criminal case will take as it progresses through the court system:</p>
+<div class="steps-wrap">
+<div class="single-step">
+<span>1.</span>
+<strong>Discovery</strong>
+<p>The discovery phase allows your attorney the opportunity to review the prosecution’s evidence against you. This could include police reports, witness statements, videos or photos, physical evidence, or any other relevant information. Discovery can unfold gradually, and your attorney might not receive all the evidence until shortly before trial.</p>
+</div>
+<div class="single-step">
+<span>2.</span>
+<strong>Pre-trial Preparation</strong>
+<p>During this phase, the defense attorney will begin locating and interviewing witnesses, developing a defense strategy, and securing evidence that may be presented at trial on your behalf.</p>
+</div>
+<div class="single-step">
+<span>3.</span>
+<strong>Plea Bargains</strong>
+<p>At any point before a verdict, the defense attorney, defendant, and prosecution may enter into negotiations regarding a plea bargain. The terms of the plea bargain will vary greatly depending on the specific circumstances of the crime, criminal history, and the strength of the prosecution’s evidence.</p>
+</div>
+<div class="single-step">
+<span>4.</span>
+<strong>Trial</strong>
+<p>If the case proceeds to trial, you can elect either a bench trial or a jury trial. The jury determines the outcome in a jury trial, whereas a judge makes the final decision regarding guilt or innocence in a bench trial. While both sides will present evidence at trial, it is the prosecution that bears the burden of proof. The state must prove that the defendant is guilty beyond a reasonable doubt.</p>
+</div>
+<div class="single-step">
+<span>5.</span>
+<strong>Verdict</strong>
+<p>After the prosecution and defense present their closing arguments, either the judge or jury will deliberate and then issue a verdict. If the defendant is found not guilty, the case is over. If the defendant is found guilty, the case will proceed to the sentencing phase.</p>
+</div>
+</div>
+</div>
+<!--STEPS SECTION end-->
+
+<!-- STRATEGY SECTION start -->
+<div class="strategy">
+<div class="strategy-lt column col_6">
+<h2>Prosecuting Strategy</h2>
+<p>The prosecutor has the burden to prove that you are guilty beyond a reasonable doubt. To do this, the prosecutor will gather evidence against you, including police reports, witness statements, videos or photos, physical evidence, or any other relevant information. Prosecutors may negotiate with your attorney to see if they can come to a plea-bargaining agreement without having to go to trial. Terms of the plea bargain will depend on the specific circumstances of the crime, your criminal history, and the strength of the prosecution’s evidence.  If there is no agreement or the crime was particularly heinous and the evidence against you is strong, the prosecutor may decide to take the case to trial.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed nisl mollis, imperdiet arcu eget, bibendum mauris. Sed sit amet semper nisl. Sed et pulvinar diam, in tempor felis. Duis sit amet sem mattis, eleifend augue et, efficitur mauris. Nam eget tellus non purus molestie ultrices in id risus. In condimentum mauris arcu, id aliquet arcu tristique a. Morbi convallis nunc odio, eu commodo nisi fermentum et.</p>
+</div>
+<div class="strategy-rt column col_6">
+<div class="strat-rt-main">
+<h4>Our DuPage County Criminal Lawyers’ Defense Strategy</h4>
+<p>Your criminal defense attorney does not have to prove you are innocent, only that there is reasonable doubt that you committed the crime.  To do this, the defense attorney will gather evidence and interview you and any witnesses.</p>
+<div class="strategy-list">
+<p><strong>There will be a standard discovery procedure, where your attorney can:</strong></p>
+<ul>
+ 	<li><p>Get copies of the arresting officers’ reports and statements made by prosecution witnesses</p></li>
+        <li class="strat-list-amp"><span>&amp;</span></li>
+ 	<li><p>Review evidence against you that the prosecution proposes to introduce at trial.</p></li>
+</ul>
+</div>
+</div>
+<div class="strat-rt-callout bg-dark-green-grid">
+<p><strong>Based on the evidence,</strong> your DuPage criminal attorney may attempt to reach a plea-bargain agreement with the prosecutor or decide to take the case to trial. If the case goes to trial, you and your attorney can decide whether you want a bench trial in front of a judge or a jury trial. In either case, your attorney will have to come up with opening and closing arguments and present evidence to instill doubt that you committed the crime.</p>
+</div>
+</div>
+</div>
+<!-- STRATEGY SECTION end -->
+
+<!-- PENALTY SECTION start -->
+<div class="penalty bg-dark-green-grid grid_section">
+<h2>Possible Criminal Penalties in Illinois</h2>
+<p>We have been successful helping others in your situation and will do everything possible to vigorously fight for you and defend your rights. We offer a free initial consultation.</p>
+<div class="container">
+<div class="row">
+<div class="col col_3">
+<img class="icon eql" style="height: 100px;" />
+<h4><a href="#">Incarceration in county jail or state prison</a></h4>
+</div>
+<div class="col col_3">
+<img class="icon eql" style="height: 100px;" />
+<h4><a href="#">Fines, penalty assessments and other costs</a></h4>
+</div>
+<div class="col col_3">
+<img class="icon eql" style="height: 100px;" />
+<h4><a href="#">Registration as a sex offender</a></h4>
+</div>
+<div class="col col_3">
+<img class="icon eql" style="height: 100px;" />
+<h4><a href="#">Driver’s license suspension or revocation</a></h4>
+</div>
+<div class="col col_3" style="border-bottom: 0px;">
+<img class="icon eql" style="height: 100px;" />
+<h4><a href="#">Permanent criminal record</a></h4>
+</div>
+<div class="col col_3">
+<img class="icon eql" style="height: 100px;" />
+<h4><a href="#/">Mandatory installation of an ignition interlock device (IID)</a></h4>
+</div>
+<div class="col col_3">
+<img class="icon eql" style="height: 100px;" />
+<h4><a href="#">Required completion of classes and/or counseling</a></h4>
+</div>
+<div class="col col_3">
+<img class="icon eql" style="height: 100px;" />
+<h4><a href="#">Probation</a></h4>
+</div>
+</div>
+</div>
+<div class="links"><a class="default_red_link" href="/contact/" rel="nofollow">GET YOUR CRIMINAL DEFENSE HELP</a></div>
+<p>If you have been accused of any criminal charges, get help today by calling 630-305-0222.</p>
+</div>
+<!-- PENALTY SECTION end -->
+
+<!--<h2>Infographic: Criminal Defense 101</h2><img src="/wp-content/uploads/2016/11/wolfestec-criminaldefense101.jpg" alt="DuPage County Criminal Attorney" /><a href="/wp-content/uploads/2016/11/wolfestec-criminaldefense101.pdf" target="new">Infographic PDF</a>-->
+
+<!--OFFENSES start-->
+<div class="offense section bg-light-tan accordian_section intro_section">
+<div class="container">
+<div class="section_title textcenter">
+<h2><b>Felony or Misdemeanor Offense?</b></h2>
+</div>
+<p>According to the <em><a href="http://www.ilga.gov/LEGISLATION/ILCS/ilcs3.asp?ActID=1876&amp;ChapAct=720%26nbsp%3BILCS%26nbsp%3B5%2F&amp;ChapterID=53&amp;ChapterName=CRIMINAL+OFFENSES&amp;ActName=Criminal+Code+of+1961." target="_blank" rel="nofollow noopener">Illinois Criminal Code</a></em>, crimes can be categorized as a misdemeanor or a felony, with felonies presenting the greatest threat to your life and liberty. Even an allegation of a felony offense can have a devastating effect on your reputation, livelihood and overall well being, and a conviction could lead to high fines and years of imprisonment.</p>
+<div class="row">
+<div class="column col_6">
+<h3>Felony Offenses in Illinois</h3>
+<p><strong><a href="/criminal-law/felonies/" rel="nofollow">Felony</a> crimes fall into five categories,</strong> while misdemeanors are broken into three classes, depending on seriousness. A conviction on a felony charge usually carries a jail sentence of more than one year. For the most serious violent felonies, the sentences are significantly more, and many offenses have mandatory minimum jail sentences.</p>
+<p>In Illinois, there are several classes of felonies, and the severity of the class depends on the circumstances of the crime. For example, when it comes to drug possession, punishment depends on the type and amount of the drug. A class 4 felony can be punished with imprisonment of 1-3 years and fines of up to $25,000. Examples of class 4 felonies in Illinois include Driving Under the Influence (DUI) and possession of between 30.1 – 500.0 gm of marijuana.</p>
+<p>A class 1 felony can be punished with imprisonment of 4-15 years and fines of up to $25,000. Examples of class 1 felonies in Illinois include kidnapping, sexual assault and drug possession of cocaine, heroin, or methamphetamine.</p>
+<p>People convicted of felonies are sentenced to state or federal prison, and certain felonies are punishable by death. If a felony crime goes to federal court, the fines and time in prison for a conviction increase drastically. For example, a class A felony can be punished with possible life imprisonment and fines of up to $250,000.</p>
+</div>
+<div class="column col_6">
+<h3>Misdemeanor Offenses in Illinois</h3>
+<p><strong><a href="/criminal-law/misdemeanors/" rel="nofollow">Misdemeanor </a>criminal charges are</strong> those that have a maximum sentence of one year in jail or less, usually with no mandatory minimum jail time for most charges and can include fines of up to $2,500. Misdemeanor convictions will also affect your professional and personal life. If this is your second or greater offense, you are at increased risk for a jail sentence for many misdemeanor offenses in Illinois.</p>
+<p style="margin:0;"><strong>Misdemeanor charges include:</strong></p>
+<ul>
+ 	<li><a href="https://www.wolfeandstec.com/criminal-law/violent-crimes/assault-battery/" rel="nofollow">Assault and battery</a></li>
+ 	<li><a href="/criminal-law/theft/" rel="nofollow">Theft</a></li>
+ 	<li><a href="https://www.wolfeandstec.com/criminal-law/trespassing/" rel="nofollow">Criminal trespass</a></li>
+ 	<li><a href="https://www.wolfeandstec.com/criminal-law/drug-crimes/" rel="nofollow">Cannabis possession</a></li>
+ 	<li><a href="/criminal-law/dui/" rel="nofollow">Driving under the influence of alcohol or drugs</a></li>
+ 	<li><a href="/criminal-law/traffic-defense/driver-license-issues/" rel="nofollow">Driving while your license is revoked or suspended</a></li>
+</ul>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porta, neque id semper dictum, lectus sapien malesuada dui, vitae finibus arcu ligula rutrum risus. Integer bibendum in leo sit amet pellentesque. Nunc ultricies facilisis posuere. Duis vel leo feugiat, placerat erat vel, dignissim lorem. Maecenas facilisis posuere dictum. Vestibulum sit amet sem molestie, fringilla dolor quis, sodales metus. Aenean placerat justo vitae ligula lobortis, vel convallis risus pellentesque. Nunc et dui est. In sed turpis sollicitudin, imperdiet dolor at, dapibus ligula.</p>
+</div>
+</div>
+</div>
+</div>
+<!--OFFENSES end-->
+
+<!--PARALLAX CONTACT start-->
+<div class="para-contact parallax_section" style="background-image: url(&quot;/wp-content/uploads/2018/10/background2-2.png&quot;); background-position: right 109px;">
+<div class="container">
+<div class="row">
+<div class="column col_6">
+<p>When you are accused of a crime in Illinois, you need to hire the best criminal defense attorney that you can find. Your case may seem impossible, but with skillful representation you have a chance. Remember, the law places a heavy burden on the government, and you have to be proven guilty beyond a reasonable doubt.</p>
+<p>The DuPage County criminal defense attorneys at Wolfe &amp; Stec, Ltd. are skilled trial lawyers who believe each case is unique, with its own set of circumstances. We know the judges and the court system and will aggressively explore every avenue for your defense. We examine the facts, the individuals involved, and the evidence available, and work hand in hand with our clients throughout the criminal process. We explain all elements and processes of the case and develop an effective defense strategy. Our goal is always to minimize the negative impact of the situation and to focus on protecting your freedoms, liberties and rights.</p>
+<p class="links-p">Don’t delay — contact us for help today at 630-305-0222<strong> </strong>if you have been accused of any criminal charges. Our DuPage County criminal defense lawyers represent clients in north central Illinois, and the Greater Chicagoland area. Your free initial consultation can be scheduled at our office.</p>
+</div>
+<div class="column col_6">
+<div class="section_title textleft">
+<h2>Put Your Trust in Us — We Are Skilled and Experienced Criminal Attorneys</h2>
+</div>
+<div class="links"><a class="default_red_link" href="/attorneys/" rel="nofollow">our attorneys</a><a class="default_red_link default_red_link2" href="/contact/" rel="nofollow">contact</a></div>
+</div>
+</div>
+</div>
+</div>
+<!--PARALLAX CONTACT end-->
+
+<!--TESTIMONIAL start-->
+<div class="section testimonial">
+<div class="container">
+<div class="section_title">
+<h3>Client Reviews</h3>
+</div>
+<div class="slider">
+<div>
+<h3>Fabulous &amp; Straight Forward - Very Easy to Work With</h3>
+<em>Natalie is incredibly qualified and knowledgeable in her field. She is a straight shooter and gets the job done. When it comes to your case and the direction to take she is honest, ethical, and trustworthy.
+There was never a question as to where we were in the process or where we were going. I trusted her with my case - completely. She was very easy to work with and kept me apprised of upcoming court dates and details regarding discussions with OC.
+I highly recommend Natalie as an attorney.
+<strong>5 out of 5 stars</strong></em>
+
+</div>
+<div>
+<h3>Worth Every Penny</h3>
+<em>Natalie is very quick to get back to me with any concerns that I may have. She keeps me informed on court dates and any hearings or work she's done. She's smart when it comes to the law.
+<strong>5 out of 5 stars</strong></em>
+
+</div>
+</div>
+<div class="link textcenter"><a class="default_red_link" href="/testimonials/">all testimonials</a></div>
+</div>
+</div>
+<!--TESTIMONIAL end-->
