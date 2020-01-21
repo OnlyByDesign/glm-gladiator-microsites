@@ -1,0 +1,1 @@
+wp-content/cache/, wp-content/uploads/, admin-bar.min.css, dashicons.min.css, wp-content/themes/wp_haswell/glm/css/style.css

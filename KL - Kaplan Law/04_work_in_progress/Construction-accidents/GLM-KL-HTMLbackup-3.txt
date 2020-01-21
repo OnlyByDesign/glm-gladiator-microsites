@@ -1,0 +1,224 @@
+<div class="intro-section-wrapper">
+<div class="intro-section-left">
+<h1 class="clear-space">New York City Construction Accident Lawyer</h1>
+<h2>Construction sites, with all their moving parts, are filled with potentially dangerous situations. We’ve all seen construction sites, but those who have worked construction know how hazardous they can truly be.</h2>
+If you or a loved one has suffered from an injury while working on a construction site, you may be entitled to compensation. Construction is a physically demanding job, and a construction accident lawyer at Kaplan Lawyers PC understands how debilitating an injury can be.
+<div class="button-wrapper"><a class="button-solid" href="#footer-contact">request free consultation</a> <a class="button-outline" href="#faqs">work injury faqs</a> <a class="button-grey" href="/accidentes-de-construccion">en espanol</a></div>
+</div>
+<div class="intro-section-right" style="background-image: url('/wp-content/uploads/2018/10/construction-injury.jpg');"></div>
+</div>
+<div class="full-width-container center-content clear-space">
+<div class="intro-form-wrapper center-content">
+<h3><i class="fa fa-pencil"></i> Request Free Case Review</h3>
+<div class="intro-form-box">[contact-form-7 id="17102" title="Main Practice Area Intro Form"]</div>
+</div>
+</div>
+<!--// Start SubTopic Dropdown Section //-->
+<div class="full-width-container full-width-lrg center-content">[do_widget id=execphp-5]</div>
+<!--// End SubTopic Dropdown Section //-->
+<div class="column-wrapper bg-dark-grey desktop-flex">
+<div class="column-left content-padding">
+<h2>Am I Qualified for Compensation in New York?</h2>
+If you were injured while working on a construction site, you are entitled to benefits. If your injuries were caused due to someone else’s negligence, or because of unsafe work conditions, or lack of safety devices, or because the site was not up to code, you may be able to receive compensation in addition to the workers’ compensation benefits. Even if negligence wasn’t the direct cause of your injury, you may still qualify for compensation. In fact, there are different types of injury claims you can file:
+<ul class="checkmarks">
+ 	<li><a href="/workers-compensation-lawyers/"><strong>Workers’ Compensation</strong></a>: All workers are entitled to file a workers’ compensation claim if they’ve been injured on the job.</li>
+ 	<li><a href="/construction-accidents/scaffolding-accidents/"><strong>Scaffolding/Ladder Injury Claim</strong></a>: New York State has special legislation in place for workers who have been injured due to a fall from a scaffold or ladder. If you’ve been injured in this way, you may have to take alternative steps when filing your claim.</li>
+ 	<li><a href="/construction-accidents/heavy-equipment-accidents/"><strong>Defective Machinery and Heavy Equipment</strong></a>: Forklifts, cranes and other vehicles used in construction can be hazardous to their operators and others working in their vicinity.</li>
+ 	<li><strong>Highway Work Zone Accidents</strong>: As with scaffolding, a different set of standards are in place for highway work zones.</li>
+ 	<li><strong>Unsafe Work Site</strong>: There are codes in place to protect everyone working on a construction project.</li>
+ 	<li><strong>Third-Party Injury Claims</strong>: Employers normally cannot be sued directly, and workers’ compensation benefits don’t provide for the pain and suffering you endure after being injured; but if your injuries were caused by the negligence of someone else (a third party) you can pursue a claim against them.</li>
+</ul>
+We’ve handled virtually all types of construction site injuries. Our team has had great success in protecting the rights of injured workers, getting them the medical attention they need and obtaining the significant recoveries they deserve. We know how hazardous the workplace can be, and we feel that you should be compensated if you’ve been hurt.
+<div class="button-wrapper"><a class="button-outline" style="float:right;margin:0;" href="/contact-us/">request free consult</a></div>
+</div>
+<div class="column-right" style="background-image: url('/wp-content/uploads/2018/10/construction-workers-nyc.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;"></div>
+</div>
+<!--// Start FAQs Section //-->
+<div class="full-width-container bg-grey">
+
+<a name="faqs"></a>
+<div class="accidents" style="padding-top: 0px;">
+<h2 class="center-content">FAQs: Construction Accidents &amp; Injuries</h2>
+<div class="accident_in">
+<div class="accodian_acc">
+<h6 class="btn1 active">HOW TO FILE A CLAIM?</h6>
+- Notify your employer, in writing, ASAP. This applies to both injury and a diagnosis of a job-related illness.- Fill out a Form C-3 Injury Report – (supplied by your employer) within 30 days of the accident and send it to the New York Workers’ Compensation Board (WCB).- See a WCB–approved doctor as soon as possible. Your employer should have a list and cannot influence your decision on which doctor you choose.
+
+</div>
+<div class="accodian_acc">
+<h6 class="btn1">What if my employer doesn’t have workers’ comp insurance coverage?</h6>
+<p style="display: none;">NY-WCB also manages the state’s Uninsured Employers’ Fund which pays lost wages and medical expenses of employees whose companies fail to purchase workers’ comp coverage. Ordinarily, the injured worker files a claim with WCB. The law relieves WCB claimants from having to disprove charges by their employer that they played a “contributory part” of their injury accident. And the same regulation prohibits employers from frivolously alleging that.But WCB awards generally fall short of most seriously injured workers’ needs and that of their family. So it’s best to call a lawyer the moment you know your employer carries no workers’ comp.</p>
+
+</div>
+<div class="accodian_acc">
+<h6 class="btn1">Can I receive compensation if injured "off the clock"?</h6>
+<p style="display: none;">When employees are on the job or working within the scope of their employment, benefits apply. Generally, employees who aren’t on the clock won’t receive injury benefits; but there are some exceptions to the “off the clock” rule which could make the employer liable for a workers’ comp claim, such as:- On his way to work, an employee runs a company-related errand at the request of a superior.- Employees who work on-call after business hours.- Employees who travel for work and commute to and from a hotel.</p>
+
+</div>
+<div class="accodian_acc">
+<h6 class="btn1">What to do if Injured on the Job?</h6>
+<p style="display: none;">First: follow the rules of filing outlined above. Then, make sure your boss carries workers’ comp.It is possible that someone not working with you played a hand in the unfortunate mishap. Third-party involvement is common in many workplace accidents, and if their actions were negligent, they must be held accountable. No two accidents are alike. So if anything at all seems remotely unusual, visit with a good workers’ comp injury lawyer.</p>
+
+</div>
+</div>
+</div>
+</div>
+<!--// End FAQs Section //-->
+
+<!--// START FIXED BG SECTION //-->
+<div class="full-width-container fixed-bg-section-dark center-content" style="background-image: url('/wp-content/uploads/2018/10/scaffolding-bg.jpg'); position: relative;">
+<div class="cms-overlay-color" style="background-color: #000; opacity: 0.7;"></div>
+<div class="fixed-bg-content">
+<h2>Construction Companies Owe Workers a Safe Environment</h2>
+<div class="spacer-bar"></div>
+<div class="two-column">The Occupational Safety and Health Administration (OSHA) has explicit rules governing safe construction worksites. OSHA’s <a href="https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=STANDARDS&amp;p_id=10605" target="_blank" rel="noopener">Safety and Health Regulations for Construction</a> state that under no circumstance is “the prime contractor relieved of overall responsibility for compliance with the requirements of this part for all work to be performed….”</div>
+<div class="two-column">
+New York City’s Office of Labor Policy &amp; Standards (OLPS) enforces the City’s workplace laws, many of which govern the construction industry. Its recent annual report outlines these ordinances and clarifies NYC’s work safety laws which hold property owners, construction contractors and subcontractors liable for most workplace injuries.
+</div>
+<div class="button-wrapper" style="padding-top: 25px;"><a class="button-outline" href="#footer-contact">let us review your injury, for free</a></div>
+</div>
+</div>
+<!--// END FIXED BG SECTION //-->
+
+<!--// START TABBED QUESTIONS //-->
+<div class="full-width-container bg-white">
+<div class="questions">
+<ul class="clearfix">
+ 	<li><a id="ques1" class="active"><span style="padding-left: 9px;">$</span>What to Expect in the Claims Process</a></li>
+ 	<li class="full_tab"><a id="ques2"><span>?</span>The Appeals Process</a></li>
+</ul>
+<div class="question_content">
+<div class="ques_cnt ques1">
+
+Workers’ comp benefits are designed to address injured victims’ monetary needs – ideally, within as little as 18 days after the injury. This assumes that everyone in the service chain – from government workers to your employer and treating physician – does their job in timely fashion. Otherwise, there may be payment delays. If your injuries allow you to return to work quickly, things are pretty straightforward. But if your disability is lengthy, or other doctors are involved in your treatment, benefit payment delays are possible. So be patient but mindful of the complications that can arise in the workers’ comp process.
+<div class="button-wrapper"><a class="button-grey" href="/client-testimonials/">client testimonials</a><a class="button-grey" href="#footer-contact">Injured? let's talk</a></div>
+</div>
+<div class="ques_cnt ques2" style="display: none;">
+
+Sometimes the WCB may hold a hearing before a Workers’ Comp Judge to determine your benefits eligibility, and many workers’ comp claims are denied for a variety of reasons. If your eligibility is denied, you may appeal within 30 days of the judge’s decision.If your appeal is allowed, a panel of three board members will review your case. It will affirm, modify or rescind the judge’s decision or send it back to the judge for further consideration. The panel’s decision must be unanimous. If it’s not, you can request a full Workers’ Comp Board review; and if it denies your further appeal, you have the right to be reheard in Appellate Division.In all aspects of the appeals process, it is best to have a skilled workers’ comp attorney assisting you, as they are intimately familiar with the sometimes-convoluted appeals process.
+<div class="button-wrapper"><a class="button-grey" href="/client-testimonials/">client testimonials</a><a class="button-grey" href="#footer-contact">Injured? let's talk</a></div>
+</div>
+</div>
+</div>
+</div>
+<!--// END TABBED QUESTIONS //-->
+
+<!--// START OFFSET COLUMNS CONTENT SECTION //-->
+<div class="column-wrapper desktop-flex">
+<div class="column-big-left bg-grey">
+<div class="number-header">
+<div class="numberCircle">10</div>
+<h2>Alarming Construction Work Injury Stats</h2>
+</div>
+<ol class="showbullets">
+ 	<li>Around <a href="https://www.osha.gov/oshstats/commonstats.html" target="_blank" rel="noopener noreferrer">one out of every five</a> worker deaths in the United States happen in the construction industry.</li>
+ 	<li>Nearly two-thirds of all construction worker deaths in the country are caused by what the Occupational Safety and Health Administration calls the Fatal Four - falls, being struck by object, electrocution and caught in or between objects or equipment.</li>
+ 	<li><a href="/construction-accidents/falls-from-heights-accidents/">Falls</a> account for nearly 40 percent of construction worker deaths nationally.</li>
+ 	<li>Two of the ten deadliest jobs in the United States are in construction - i.e., roofers and structural iron and steel workers.</li>
+ 	<li>In New York State and New York City, the rate of construction worker fatalities caused by falls is even greater - 49 percent of fatalities in New York State and 59 percent of fatalities in New York City.</li>
+ 	<li><a href="http://nycosh.org/wp-content/uploads/2017/01/DeadlySkyline2017_NYS-ConstructionFatalitiesReport_final_NYCOSH_May.pdf" target="_blank" rel="nofollow noopener noreferrer">90 percent</a> of construction fatalities in New York took place on sites with safety violations.</li>
+ 	<li>In New York, the construction industry employs around 4 percent of the state’s workforce but accounts for 20 percent of workplace deaths.</li>
+ 	<li>In New York City, the rates are even more alarming. New York City’s construction industry employs 3 percent of the population but accounts for over one-third of workplace deaths.</li>
+ 	<li>Construction worker fatality rates in New York are 3.7 times that of the overall rate.</li>
+ 	<li>The number of construction-related incidents involving injuries or fatalities has risen dramatically over the past few years in New York, jumping by 88 percent from 2014 to 2015.</li>
+</ol>
+<div class="icon-header">
+
+&nbsp;
+<h2>Which Workers are at Greatest Risk for Injuries on
+Construction Sites?</h2>
+</div>
+
+[caption id="attachment_4744" align="alignleft" width="450"]<a href="https://www.kaplanlawyers.com/wp-content/uploads/2018/09/nyc-construction-accidents-stats.jpg" target="_blank" rel="noopener"><img class="size-full wp-image-4744" src="https://www.kaplanlawyers.com/wp-content/uploads/2018/09/nyc-construction-accidents-stats.jpg" alt="NYC Construction Accident Stats" width="450" height="284" /></a> <a href="https://www.kaplanlawyers.com/wp-content/uploads/2018/09/nyc-construction-accidents-stats.jpg" target="_blank" rel="noopener">Click To View Full Infographic</a>[/caption]
+
+A report from the New York Committee for Occupational Safety and Health found that “non-union job sites have twice as many violations as their union counterparts.” Not surprisingly, there are much higher fatality rates on non-union construction sites. NYCOSH’s report also found that Latino workers were disproportionately at risk for on-the-job injuries in New York. The report states:
+<blockquote><strong>"Latino workers are more likely than non-Latinos to die on the job due to cases of extreme employer recklessness and disregard for human life, and they are
+more likely to die from fatal falls. They are also more likely to be victims of wage theft, experiencing dual exploitation by their employers."</strong></blockquote>
+Misclassified workers also face an increased risk of on-the-job injuries. Misclassified workers are often hired as independent contractors even though they should be classified as employees. Misclassification is a common practice on New York construction sites.
+
+As mentioned above, certain types of construction jobs have higher death rates than others. Roofers and structural iron and steel workers are two of the top 10 jobs with highest death rates in the United States.
+
+</div>
+<div class="column-small-right bg-dark-grey">
+<h2 class="clear-space">Have you been involved in any of the following types of accidents?</h2>
+<ul class="injury-list checkmarks">
+ 	<li><img src="" /><a href="/construction-accidents/struck-by-falling-objects-accidents/" rel="nofollow">Struck by falling objects</a></li>
+ 	<li><img src="" /><a href="/construction-accidents/falls-from-heights-accidents/">Fall from heights</a></li>
+ 	<li><img src="" /><a href="/construction-accidents/worksite-trip-and-fall-accidents/">Slip, trip or fall</a></li>
+ 	<li><img src="" /><a href="/construction-accidents/electrocution-injury/">Electrocution</a></li>
+ 	<li><img src="" /><a>Injury due to being pinned</a></li>
+ 	<li><img src="" /><a href="/construction-accidents/crane-accidents/">Crane injury</a></li>
+ 	<li><img src="" /><a href="/construction-accidents/forklift-accidents/">Forklift injury</a></li>
+ 	<li><img src="" /><a>Defective machinery</a></li>
+ 	<li><img src="" /><a href="/construction-accidents/scaffolding-accidents/">Scaffolding collapse</a></li>
+ 	<li><img src="" /><a href="/construction-accidents/excavation-accidents/">Excavation collapse</a></li>
+ 	<li><img src="" /><a href="/construction-accidents/elevator-accidents/">Elevator accidents</a></li>
+</ul>
+Often, an injury can lead to a prolonged period of lost wages as you try and regain strength enough to work. During this time, it is important to find out whether you are eligible for injury benefits. These benefits can help provide for medical expenses, ongoing medical care, and can even help you reclaim some of your lost earnings.
+<div class="spacer-bar"></div>
+<h2><span style="color: #cc0000;">Need Help?</span> Contact Our Experienced Construction Accident Attorneys</h2>
+If you or a loved one has suffered a workplace injury or death on a construction site, you deserve legal representation to ensure you get the compensation you deserve. Our experienced team of construction accident lawyers are here to stand up for your rights.
+
+Contact Kaplan Lawyers PC by filling out our <a href="#footer-contact">online form</a> or calling us at any of our office locations:
+
+(212) 563-1900 (NYC)
+(516) 399-2364 (Nassau County)
+(347) 758-9011 (Brooklyn)
+(631) 619-5309 (Suffolk County)
+(917) 382-9212 (Queens)
+
+</div>
+</div>
+<!--// END OFFSET COLUMNS CONTENT SECTION //-->
+
+<!--// START FIXED BG SECTION //-->
+<div class="full-width-container fixed-bg-section-dark center-content" style="background-image: url('/wp-content/uploads/2018/10/scaffolding-bg.jpg'); position: relative;">
+<div class="cms-overlay-color" style="background-color: #000; opacity: 0.8;"></div>
+<div class="fixed-bg-content">
+<div class="two-column">
+<h2>Need Help? Contact Our Experienced Construction Accident Attorneys</h2>
+If you or a loved one has suffered a workplace injury or death on a construction site, you deserve legal representation to ensure you get the compensation you deserve. Our experienced team of construction accident lawyers are here to stand up for your rights.</div>
+<div class="two-column agencies">
+<ul>
+<li class="two-column"><img src="" /><a href="">(212) 563-1900 (NYC)</a></li>
+<li class="two-column"><img src="" /><a href="">(516) 399-2364 (Nassau County)</a></li>
+<li class="two-column"><img src="" /><a href="">(347) 758-9011 (Brooklyn)</a></li>
+<li class="two-column"><img src="" /><a href="">(631) 619-5309 (Suffolk County)</a></li>
+<li class="two-column"><img src="" /><a href="">(917) 382-9212 (Queens)</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!--// END FIXED BG SECTION //-->
+
+<div class="full-width-container bg-white center-content">
+<h2>Additional Work Injury Materials</h2>
+<div class="spacer-bar"></div>
+<div class="column-wrapper">
+<div class="column-left content-left column-padding">
+<h3>Types of Disability</h3>
+<ul class="showbullets">
+ 	<li>Temporary Total Disability – The injured worker's wage-earning capacity is completely lost, but only temporarily.</li>
+ 	<li>Temporary Partial Disability – Wage-earning capacity is lost only partially, and temporarily.</li>
+ 	<li>Permanent Total Disability – Employee's wage-earning capacity is permanently, totally lost. There is no limit on the number of weeks payable. But there are conditions which can affect the term, which your attorney can explain.</li>
+ 	<li>Permanent Partial Disability – Part of the employee's wage-earning capacity is permanently lost. There are two types of permanent partial disability benefits, depending on the body part affected and the nature of the permanent disability. Again, there are conditions involved in accurately assessing this disability which your lawyer can explain.</li>
+</ul>
+</div>
+<div class="column-right content-left column-padding">
+<h3>New York Laws That Protect Workers</h3>
+<ul class="showbullets">
+ 	<li>New York’s Consolidated Laws – <a href="https://www.nysenate.gov/legislation/laws/WKC/3" target="_blank" rel="noopener">Workers Compensation Law</a> &amp; <a href="https://www.nysenate.gov/legislation/laws/WKC/11" target="_blank" rel="noopener">Section II</a></li>
+ 	<li>New York’s <a href="https://www.nysenate.gov/legislation/laws/WKC/A9" target="_blank" rel="noopener">Workers’ Compensation Benefit Schedules</a></li>
+ 	<li>New York Scaffold Laws (Labor Law §§ <a href="https://www.nysenate.gov/legislation/laws/LAB/240" target="_blank" rel="noopener">240</a> &amp; <a href="https://www.nysenate.gov/legislation/laws/LAB/241" target="_blank" rel="nofollow noopener">241</a>) which further protect many construction workers from falls from heights.</li>
+ 	<li>New York City Office of Labor Policy &amp; Standards’ (OLPS) <a href="https://www1.nyc.gov/assets/dca/downloads/pdf/workers/StateofWorkersRights-Report-2017.pdf" target="_blank" rel="noopener">Safe Workplace Laws</a></li>
+ 	<li><a href="http://www.wcb.ny.gov/" target="_blank" rel="noopener">The New York Workers’ Compensation Board</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!--// START BLOG ARTICLES //-->
+<div class="inline-blog-articles full-width-container bg-black center-content">
+<h2>New York Construction Accident Articles</h2>
+<div class="spacer-bar"></div>
+[do_widget id=rpwe_widget-3]
+</div>

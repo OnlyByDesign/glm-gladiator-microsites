@@ -1,0 +1,539 @@
+/*
+Theme Name: Haswell
+Theme URI: https://themeforest.net/item/haswell-multipurpose-one-multi-page-wp-theme-/12785566?s_rank=2
+Author: Redexp
+Author URI: http://themeforest.net/user/redexp
+Description: The 2016 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background.
+Version: 2.0.5
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, right-sidebar, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready, accessibility-ready
+Text Domain: haswell
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+/*********  TOP HEADER STYLES ***********/
+
+
+#cshero-header-logo a img { transition: all 0.4s ease-in-out; }
+
+@media (min-width: 1025px) {
+	#cshero-header .col-lg-2 { width: 100%;text-align: center; }
+	#cshero-header .col-lg-10 { width: 100%;text-align:center; }
+	#cshero-header-navigation .main-navigation { float:none !important;text-align:center; }
+}
+
+
+/*********  TOP MENU STYLES ***********/
+
+#cshero-header-navigation { margin:30px 0 10px 0; }
+#cshero-header-navigation .main-navigation .menu-main-menu li:not(.group) > ul.drop_full_width.sub-menu { width:100% !important; }
+.main-navigation .menu-main-menu ul { background-color:#242b34 !important; }
+#cshero-header-navigation .main-navigation .menu-main-menu > li > a { line-height:0px !important;font-size:14px !important;padding-left:20px !important;padding-right:20px !important; }
+#cshero-header-navigation .main-navigation .menu-main-menu > li > a:hover { color:#a59986; }
+.menu-main-menu > li.current-menu-item > a span:before, .menu-main-menu > li.current-menu-ancestor > a span:before { bottom:-5px !important; }
+
+
+@media (min-width: 1025px) {
+#cshero-header-navigation #site-navigation { display:inline-block !important; }
+.menu-leventis-top-menu-container { float:left; }
+}
+
+
+#menu-item-3652 ul { padding:25px 0 35px 0 !important; border-right:1px solid #3c444f; }
+#menu-item-3652 ul li { text-align:right;padding-left:0px !important;padding-right:30px !important;transition: all 0.4s ease-in-out; }
+#menu-item-3652 ul li:hover { padding-right:40px !important; }
+#menu-item-3652 ul li a span { font-size:19px !important;font-style:italic;text-transform:capitalize !important; }
+
+#menu-item-3651 ul { padding:25px 0 35px 0px !important; }
+#menu-item-3651 ul li { padding-left:0px !important;padding-right:0px !important; }
+#menu-item-3651 ul li a { transition: all 0.4s ease-in-out !important; }
+#menu-item-3651 ul li a span { font-size:19px !important;font-style:italic;text-transform:capitalize !important; }
+
+
+/*********  TOP MENU CONTACT INFO ***********/
+
+.header-contact { color:#a59986;font-weight:200;letter-spacing:2px;float:left; }
+.header-contact a { color:#f9f2e8;letter-spacing:2px;font-size:17px;font-family: 'Work Sans', sans-serif;font-weight:500;padding-left:15px; }
+.header-contact a:hover { color:#f9f2e8;  }
+
+@media (min-width: 700px) { 
+	.header-contact a { cursor:default; }
+}
+
+
+/*********  HEADER & FOOTER GRADIENTS ***********/
+
+#cshero-header {
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#576b66+0,6c8982+50,576b66+100 */
+background: #576b66; /* Old browsers */
+background: -moz-linear-gradient(-45deg, #576b66 0%, #6c8982 50%, #576b66 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, #576b66 0%,#6c8982 50%,#576b66 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, #576b66 0%,#6c8982 50%,#576b66 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#576b66', endColorstr='#576b66',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	
+	-webkit-box-shadow: 0px 5px 30px -6px rgba(0,0,0,0.77);
+-moz-box-shadow: 0px 5px 30px -6px rgba(0,0,0,0.77);
+box-shadow: 0px 5px 30px -6px rgba(0,0,0,0.77);
+}
+
+/*********  HOME STYLES ***********/
+
+		/* HOME BANNER */
+
+.home .banner-wrapper { width:100%;height:600px;position:relative;overflow:hidden; }
+.banner-wrapper .background-img { background-image:url('/wp-content/uploads/2018/04/columbia-sc-law-office.jpg'); width:100%;height:600px;background-repeat:no-repeat;background-size:cover; background-position:center center; position:absolute; right:-500px; }
+.home .banner-wrapper #banner-overlay { width:100%;height:600px;background-color:rgba(36,43,52,0.8);opacity:0.6;transition: all 0.4s ease-in-out;position:absolute; right:-1250px; }
+#lawyers-pic { position:absolute;bottom:-500px;left:5%; }
+
+.home .banner-caption { width:100%;text-align:center;position:relative;top:35%;padding-left:30%; }
+#banner-txt-lg { color:#fff;font-size:62px;font-style:italic;line-height:56px; }
+.single #banner-txt-lg { padding:35px 10% 0 10%; }
+.divider-orange { /*background-color:#a43d2a;height:5px;width:150px;*/margin:10px auto; }
+#banner-txt-sm { color:#fff;text-transform:uppercase;font-size:24px;letter-spacing:1px;font-family: 'Work Sans', sans-serif;font-weight:500;margin-top:20px; }
+.home .btn-clear { float:left; }
+.btn-clear a { border:2px solid #fff;background-color:rgba(36,43,52,0.5);color:#fff;font-weight:400;font-family: 'Work Sans', sans-serif;font-size:15px;text-transform:uppercase;padding:15px 25px 15px 25px;margin:20px 15px;text-decoration:none !important; }
+.home .btns { margin-left:32%;margin-top:40px;opacity:0.1; }
+.btn-clear a:hover { color:#fff;background-color:rgba(36,43,52,0.95); }
+
+.home-banner-txt h2 { font-family:Taviraj !important;font-size:48px;font-weight:500;font-style:italic;letter-spacing:1px; }
+
+.home #main { padding-bottom:0px; }
+
+@media (max-width:1600px) {
+	.home .banner-wrapper, .banner-wrapper .background-img, .home .banner-wrapper #banner-overlay { height:550px; }
+	#lawyers-pic { left:0; }
+	#banner-txt-lg { font-size:56px; }
+	.home .banner-caption { padding-left:35%; }
+	.home .btns { margin-left:25%; }
+}
+@media (max-width:1500px) {
+	.home .banner-wrapper, .banner-wrapper .background-img, .home .banner-wrapper #banner-overlay { height:500px; }
+	#banner-txt-lg { font-size:48px; }
+	#banner-txt-sm { font-size:20px;}
+	#lawyers-pic { left:0; }
+	#lawyers-pic img { width:85%; }
+	.home .btns { margin-left:25%; }
+
+
+}
+@media (max-width:1250px) {
+	.banner-caption { width:90%;padding-left:50%;top:5%; }
+	#banner-txt-lg { line-height:50px;font-size:62px; }
+	.home .btns { margin-left:20%;margin-top:20px; }
+	
+
+}
+@media (max-width:1150px) {
+	.home .banner-wrapper, .banner-wrapper .background-img, .home .banner-wrapper #banner-overlay { height:400px; }
+	.home .banner-caption { width:90%;padding-left:50%;top:10% !important; }
+	#banner-txt-lg { font-size:44px; }
+	#banner-txt-sm { font-size:17px;}
+	#lawyers-pic { left:0; }
+	#lawyers-pic img { width:75%; }
+	.home .btns { margin-left:0;margin-top:0px; }
+	.btn-clear a { margin:10px 5px;padding:10px 15px 10px 15px; }
+	
+
+}
+@media (max-width:970px) {
+	.home .banner-wrapper, .banner-wrapper .background-img, .home .banner-wrapper #banner-overlay { height:350px; }
+	.home .banner-caption { padding-left:40%; }
+	.home .btns { margin-left:10%; }
+	#lawyers-pic img { width:60%; }
+	.home #main { padding-top:0px; }
+	
+}
+@media (max-width:870px) {
+	.home .banner-caption { padding-left:10%; }
+	#banner-txt-lg { font-size:48px; }
+	#lawyers-pic { display:none; }
+	.home .btns { margin-left:20%; }
+	
+}
+@media (max-width:600px) {
+	#banner-txt-lg { font-size:40px;line-height:36px; }
+	.home .btns { margin-left:10%; }
+}
+@media (max-width:570px) {
+	.home .banner-wrapper, .banner-wrapper .background-img, .home .banner-wrapper #banner-overlay { height:380px; }
+	.home .btns { margin-left:0%;margin-top:10px; }
+	.btn-clear { margin-top:20px;width:100%; }
+	.btn-clear a { margin:15px 5px;padding:7px 10px 7px 10px; }
+
+
+}
+	
+		
+		/* PRACTICE AREA TABS */
+
+.btn-defense, .btn-injury, .btn-comp { width:100%;text-align:center;border-right:1px solid #f9f2e8;padding:15px 0 15px 0;color:#fff;text-transform:uppercase;font-size:15px;font-weight:400;font-family: 'Work Sans', sans-serif;cursor:pointer; }
+.btn-defense:hover, .btn-injury:hover, .btn-comp:hover { background-color:#ba4f3c; }
+
+.btn-defense button, .btn-injury a, .btn-comp a { color:#fff;text-transform:uppercase;font-size:15px;font-weight:400;font-family: 'Work Sans', sans-serif; }
+.btn-defense button:hover, .btn-injury a:hover, .btn-comp a:hover { color:#fff; }
+
+.MagicScroll[data-mode="scroll"] .mcs-item .mcs-caption, .MagicScroll[data-mode="animation"] .mcs-item .mcs-caption { bottom:70px !important;padding:15px 0;font-family:Taviraj;font-size:17px;font-weight:300;background-color:rgba(36,43,52,0.8) !important; }
+
+.palm-bg-tan { background-image:url('/wp-content/uploads/2018/04/palm-tan.png');background-repeat:no-repeat;background-position:center center;background-size:contain; }
+
+.comp-layer, .injury-layer { display:none; }
+
+.center-div { width:100%;text-align:center; }
+
+a.btn-outline { margin:40px 0 45px 0;color:#242b34;padding:10px 25px 10px 25px;border:2px solid #242b34;font-weight:400;font-size:16px;font-family: 'Work Sans', sans-serif;letter-spacing:1px;text-transform:uppercase;text-decoration:none !important; }
+a.btn-outline:hover { background-color:#242b34;color:#fff; }
+
+		/* TOP ATTORNEY BIO BOXES */
+
+.home-leigh-bio .pic { background-color:#f8f5f0;padding:15px;margin-bottom:15px;border:1px solid #aba295;max-width:418px;float:right; }
+.home-leigh-bio { width:100%;text-align:right; }
+.home-joe-bio .pic { background-color:#f8f5f0;padding:15px;margin-bottom:15px;border:1px solid #aba295;max-width:418px;float:right; }
+.home-joe-bio { width:100%;text-align:right; }
+
+.leigh-intro, .joe-intro { display:none;font-size:14px;line-height:25px; }
+.leigh-expand, .joe-expand { font-size:14px;font-weight:400;font-family: 'Work Sans', sans-serif;color:#a43d2a; }
+
+.leigh-expand-icon { float:right;margin-left:15px;opacity:0.4; }
+.leigh-expand-icon:hover { opacity:0.6;transition: all 0.4s ease-in-out; }
+.leigh-collapse-icon { float:right;margin-left:15px;opacity:0.4;display:none; }
+.leigh-collapse-icon:hover { opacity:0.6;transition: all 0.4s ease-in-out; }
+
+.joe-expand-icon { float:right;margin-left:15px;opacity:0.4; }
+.joe-expand-icon:hover { opacity:0.6;transition: all 0.4s ease-in-out; }
+.joe-collapse-icon { float:right;margin-left:15px;opacity:0.4;display:none; }
+.joe-collapse-icon:hover { opacity:0.6;transition: all 0.4s ease-in-out; }
+
+@media (max-width:767px) {
+	.home-leigh-bio .pic, .home-joe-bio .pic { float:none; }
+	.home-leigh-bio { margin-top:25px; }
+	.home-leigh-bio, .home-joe-bio { margin-left:20%; }
+}
+@media (max-width:600px) {
+	.home-leigh-bio .pic, .home-joe-bio .pic { float:none; }
+	.home-leigh-bio, .home-joe-bio { margin-left:10%; }
+}
+@media (max-width:550px) {
+	.home-leigh-bio, .home-joe-bio { margin-left:0; }
+}
+
+		/* TESTIMONIALS */
+
+.testimonial_rotator_wrap { margin:25px 10%; }
+.testimonial_rotator_author_info p em { color:#6d83a0;font-size:20px; }
+.testimonial_rotator_quote { color:#a8b5c6;font-size:24px;margin:35px 0 35px 0; }
+h2.testimonial_rotator_slide_title { color:#fff; }
+.fa-chevron-left:before, .fa-chevron-right:before { color:#6d83a0; }
+.testimonials-page h2 {color: #a43d2a !important; }
+.testimonials-page .testimonial_rotator_quote {color: #444444 !important;font-size: 17px !important; }
+.testimonials-page {margin-left:-12% !important; }
+.testimonials-page .testimonial_rotator.template-default .testimonial_rotator_author_info {    border-left: solid 3px #a43d2a !important; }
+.testimonials-page .testimonial_rotator_author_info p em {color: #a43d2a !important;}
+
+
+		/* HOME FOOTER FORM */
+
+.contact-form { border-top:8px solid #a43d2a; }
+.entry-content .contact-form p { margin-bottom:0px !important;line-height:0; }
+
+.form-left-pic { background-image:url('/wp-content/uploads/2018/04/columbia-law-firm.jpg');background-position:top center;background-size:cover;height:320px;width:100%; }
+
+.contact-form .wpcf7-form input[type=text], .contact-form .wpcf7-form input[type=email], .contact-form .wpcf7-form input[type=tel] { width:100%;background-color:#eae4db;height:80px;padding-left:10px;font-family: 'Work Sans', sans-serif;font-weight:300;font-size:17px;border:1px solid #ded5c9;border-bottom:0px; }
+
+.contact-form .wpcf7-form textarea { height:240px;width:100%;background-color:#eae4db;padding-left:10px;font-family: 'Work Sans', sans-serif;font-weight:300;font-size:17px;border:1px solid #ded5c9; }
+
+.contact-form .row { margin:0px !important; }
+.contact-form .col-lg-12, .contact-form .col-sm-12 { padding-right:0;padding-left:0px; }
+
+.contact-form .wpcf7-form input[type=submit] { width:100%;background-color:#a59986;text-align:center;height:80px;color:#fff;border-color:#a59986;font-family: 'Work Sans', sans-serif;font-weight:400;font-size:16px;margin-top:-11px;letter-spacing:1px;padding-top:15px; }
+.contact-form .wpcf7-form input[type=submit]:hover { background-color:#958e82; }
+
+.contact-form div.wpcf7 .ajax-loader { height:0px;width:0px; }
+
+@media (max-width:990px) {
+	.contact-form .vc_col-sm-9 { width:100%; }
+	.form-left-pic { display:none; }
+	.contact-form .wpcf7-form input[type=text], .contact-form .wpcf7-form input[type=email], .contact-form .wpcf7-form input[type=tel], .contact-form .wpcf7-form textarea { padding-left:30px; }
+}
+
+/*********  INNER PAGE BANNER STYLES ***********/
+
+body #main { padding-bottom:0px !important; }
+
+
+.banner-wrapper { width:100%;height:450px;position:relative;overflow:hidden; }
+.banner-wrapper #banner-overlay { width:100%;height:600px;background-color:rgba(36,43,52,0.8);opacity:0.6;transition: all 0.4s ease-in-out;position:absolute; right:-1250px; }
+.banner-caption { width:100%;text-align:center;position:relative;top:35%;padding-left:0; }
+.banner-caption2 { width:150%;text-align:center;position:relative;top:25%;padding-left:0; }
+
+
+.btns { text-align:center; width:100%; opacity:0.1; }
+.btn-clear { float:none;margin-top:50px; }
+
+@media (max-width:1600px) {
+	.banner-wrapper, .banner-wrapper #banner-overlay { height:450px; }
+}
+@media (max-width:1500px) {
+	.banner-wrapper, .banner-wrapper #banner-overlay { height:450px; }
+}
+@media (max-width:1150px) {
+	.banner-wrapper, .banner-wrapper #banner-overlay { height:400px; }
+	.banner-caption { top:25%; }
+}
+@media (max-width:970px) {
+	.banner-wrapper, .banner-wrapper #banner-overlay { height:350px; }
+	.banner-caption { top:10% !important; }
+}
+@media (max-width:570px) {
+	.banner-wrapper, .banner-wrapper #banner-overlay { height:380px; }
+		.banner-caption2 { width:100% !important; }
+}
+
+
+
+#page-title.page-title-large { padding:320px 0 60px 0; }
+
+#page-title #page-title-text h1 { font-family:Taviraj;font-size:62px;color:#fff;letter-spacing:1px;text-shadow: 2px 2px 15px #242b34; }
+
+@media (min-width:1400px) { #page-title.page-title-large { padding:400px 0 110px 0 !important; } #page-title.page-title-img { background-size:cover !important;background-position:top center !important;background-attachment:unset !important; } }
+
+@media (max-width:1399px) { #page-title.page-title-large { padding:340px 0 60px 0 !important; } #page-title.page-title-img { background-size:cover !important;background-position:top center !important;background-attachment:unset !important; } }
+
+@media (max-width:1150px) { 
+	#page-title.page-title-large { padding:275px 0 40px 0 !important; }
+	#page-title-text { background-color: rgba(36,43,52,0.65);padding:20px 0 20px 15px; }
+	#page-title.page-title-img { background-position:left top !important;background-attachment:unset !important; } 
+	#page-title-text h1 { font-size:42px !important; }
+}
+@media (max-width:767px) { 
+	#page-title.page-title-img { background-attachment:unset !important; }
+	#page-title.page-title-large { padding:235px 0 30px 0 !important; }
+	#page-title-text h1 { font-size:36px !important;line-height:32px !important; }
+}
+@media (max-width:620px) { 
+	#page-title.page-title-large { padding:140px 0 0 0 !important; }
+	#page-title-text h1 { font-size:24px !important;line-height:28px !important; }
+	#page-title.page-title-img { background-size:cover !important;background-attachment:unset !important; } 
+}
+@media (max-width:480px) { 
+	#page-title.page-title-large { padding:100px 0 0 0 !important; }
+	#page-title-text h1 { font-size:20px !important;line-height:24px !important; }
+}
+
+.lrg-txt { font-size:19px; }
+
+.standout { text-align:center;font-size:21px;color:#a43d2a;line-height:33px;font-style:italic;margin:20px 0;padding:10px 0;border-top:1px solid #a59986;border-bottom:1px solid #a59986;}
+
+.btn-orange { padding:10px 20px;background-color:#a43d2a;text-align:center;text-decoration:none !important; }
+.btn-orange a { color:#fff;font-weight:400;font-size:15px; }
+
+.btn-blue { padding:10px 20px;background-color:#242b34;text-align:center; }
+.btn-blue:hover { background-color:#354253; }
+.btn-blue a { color:#fff;font-weight:400;font-size:16px;font-family: 'Work Sans', sans-serif;letter-spacing:1px;text-transform:uppercase;text-decoration:none !important; }
+.btn-blue a:hover { color:#fff; }
+
+.cms_contact_info .cms-contact-info-body .contact-info-box-content p {font-size: 17px !important;line-height:20px !important;}
+.cms_contact_info .cms-contact-info-body .contact-info-box-content h3 {font-size: 19px !important;}
+
+
+/*********  ACCORDION STYLES ***********/
+
+.vc_tta-title-text {
+	color: #a43d2a !important;
+font-size: 16px !important;
+font-weight: bold !important;
+text-transform: uppercase !important;
+margin: 12px 0 20px !important;
+font-family: "Open Sans", Arial, Helvetica, sans-serif !important;
+line-height: 25px !important;
+	
+}
+
+.vc_tta.vc_tta-accordion.vc_tta-style-bg-heading .vc_tta-panel .vc_tta-panel-title a {background: #E9E0D4 !important;}
+
+/*********  INNER SIDEBAR STYLES ***********/
+
+.widget li {margin: 10px 10px 10px 2px!important; border-bottom: 1px solid #E9E0D4!important; padding-bottom: 5px!important;  }
+.custom-html-widget .testimonial_rotator_description {padding-top:25px;}
+.custom-html-widget {background-color:#E9E0D4}
+.custom-html-widget .testimonial_rotator_author_info p em { color:#a59986;font-size:17px; }
+.custom-html-widget .testimonial_rotator_quote { color:#444444;font-size:17px;margin:10px 0 5px 0; }
+.custom-html-widget h2.testimonial_rotator_slide_title { color:#a43d2a; font-size:18px; }
+.custom-html-widget .testimonial_rotator.template-default .testimonial_rotator_author_info {border-left: none !important; padding: 10px 0 0 15px !important;}
+.widget .wg-title {font-size: 18px !important;font-weight: normal !important;margin: 21px 0 19px !important; }
+.widget {margin-bottom: 10px !important; }
+.widget_media_image {margin-left:20%; margin-right:20% !important; }
+.custom-html-widget .wpcf7 {padding:0px 25px 0px 25px;}
+.custom-html-widget .wpcf7-form input[type="text"], .wpcf7-form input[type="email"], .wpcf7-form input[type="phone"], .wpcf7-form input[type="password"], .wpcf7-form input[type="url"], .wpcf7-form input[type="tel"] {width: 100%;background-color: #eae4db;height: 60px;padding-left: 10px;font-family: 'Work Sans', sans-serif;font-weight: 300;font-size: 17px;border: 1px solid #ded5c9;border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: rgb(222, 213, 201);border-bottom: 0px;}
+.custom-html-widget .wpcf7-form textarea {height: 140px;width: 100%;background-color: #eae4db;padding-left: 10px;font-family: 'Work Sans', sans-serif;font-weight: 300;font-size: 17px;border: 1px solid #ded5c9;}
+.custom-html-widget .wpcf7-form input[type="submit"] {
+    width: 100%;
+    background-color: #C64F39;
+    text-align: center;
+    height: 50px;
+    color: #fff;
+    border-color: #C64F39;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 1px;
+    padding-top: 10px;
+}
+
+.custom-html-widget .wpcf7-form input[type="submit"]:hover {
+    background-color: #ab4532;
+}
+.form-intro {color:#444444;padding:25px 15px 0px 25px;}
+
+
+/*********  MAIN CONTENT AREA CONTAINER STYLES ***********/
+
+#main { border-top:8px solid #a43d2a; }
+.entry-content p { margin-bottom:30px !important; }
+
+.entry-content .vc_col-sm-6 a { text-decoration:underline; }
+.entry-content .vc_col-sm-6 a:hover { text-decoration:none; }
+
+.entry-content .vc_col-sm-8 a { text-decoration:underline; }
+.entry-content .vc_col-sm-8 a:hover { text-decoration:none; }
+
+.entry-content .vc_col-sm-12 a { text-decoration:underline; }
+.entry-content .vc_col-sm-12 a:hover { text-decoration:none; }
+
+
+p.align-center { text-align:center; }
+h1 {font-family: "Taviraj" !important; margin: 10px 0 32px 0 !important; }
+.subtitle {font-size: 19px; color: #a59986; font-family: Taviraj; font-style: italic;margin-bottom:50px;}
+
+
+/*********  FOOTER STYLES ***********/
+
+.credential-badges {width:100%;background-color:#e9e0d4;height:190px;padding:0px 0 15px 0;border-top:0px;margin-top:0px;overflow:hidden;}
+.credential-badges .bx-wrapper { width:100%;margin:0 !important;max-width:100% !important; }
+.credential-badges .gs_logo_single img {
+	opacity:0.4;
+  filter: sepia(100%);
+    -webkit-filter: sepia(1);
+    -ms-filter: sepia(100%);    
+}
+.credential-badges .gs_logo_single img:hover {
+	opacity:1.0;
+  filter: sepia(0%);
+    -webkit-filter: sepia(0);
+    -ms-filter: sepia(0%);    
+}
+
+@media (max-width:1400px) {
+	.credential-badges { height:175px; }
+	.gs_logo_single img { max-width:175px; }
+}
+@media (max-width:1100px) {
+		.credential-badges { height:150px; }
+	.gs_logo_single img { max-width:150px; }
+}
+@media (max-width:600px) {
+	.credential-badges { display:none !important; }
+}
+
+.cms-footer-layout3-wrap, .cms-footer-layout4-wrap { background:#576c66 !important; }
+.cms-bottom-wrapper { display:none; }
+
+#main { border-bottom:8px solid #a43d2a; }
+
+.footer-logo { width:100%;background-color:#576c66;text-align:center;margin-top:3px; }
+.footer-logo .leventis-logo { padding:30px 0 30px 0; }
+
+.footer-wrapper { display:block;padding-bottom:55px;width:100%;background-color:#576c66;text-align:center;color:#f9f2e8;font-size:32px;font-weight:300; }
+.footer-wrapper .footer-phone { float:left;padding-right:20px;width:51%;text-align:right; }
+.footer-wrapper .footer-phone a { color:#f9f2e8;font-size:32px;font-weight:300;letter-spacing:1px; }
+.footer-wrapper .contact-btn { float:left;padding-left:20px;width:48%;text-align:left; }
+.footer-wrapper .contact-btn a { background-color:#a43d2a;padding:10px 50px 10px 50px;color:#f9f2e8;font-size:16px;font-weight:400;font-family: 'Work Sans', sans-serif;text-transform:uppercase;letter-spacing:1px; }
+.footer-wrapper .contact-btn a:hover { background-color:#ba4f3c; }
+
+.copyright { background-color:#242b34;width:100%;display:inline-block; }
+.copyright .copyright-left { width:50%;float:left;padding:17px 0 5px 25px; }
+.copyright .copyright-right { width:50%;float:left;padding:10px 65px 10px 0;text-align:right; }
+.copyright .copyright-left, .copyright .copyright-left a { font-size:13px;font-weight:200;color:#a59986; }
+.copyright .copyright-left a:hover { color:#c4b49a; }
+
+.office-address { background-color:#576c66;width:100%;text-align:center;font-size:14px;letter-spacing:1px;color:#f9f2e8;font-family: 'Work Sans', sans-serif;font-weight:200;padding-bottom:30px; }
+
+#glm-logo:hover { opacity:0.8; }
+#glm-logo { opacity:1.0; }
+
+
+
+/*********  BLOG STYLES ***********/
+
+.entry-navigation { background:transparent !important; }
+.blog-thumb { float:left;width:350px;height:250px;background-position:center center;background-size:cover;margin:0 35px 20px 0; }
+#categories-5 { margin-top:50px; }
+.rpwe-block h3 a { font-size:16px;line-height:23px;text-decoration:underline; }
+.rpwe-block .rpwe-summary { font-size:14px;line-height:20px; }
+
+@media (max-width:600px) {
+	.blog-thumb { float:none;width:100%;margin:20px 0 20px 0; }
+	.cms-blog-item .entry-title { margin:25px 0 15px 0 !important; }
+}
+
+
+/*********  MOBILE SPECIFIC STYLES ***********/
+
+.mobile-ctc { display:none; }
+
+@media (max-width:1025px) {
+	body #main { padding-top:0px !important; }
+	#cshero-header .col-md-2 { width:75% !important; }
+	#cshero-header-logo a img { width:100%;height:100% !important; }
+	.header-contact { display:none; }
+	.mobile-ctc { display:inline-block;background-color:#a43d2a;padding:8px 0 8px 0;width:100%;text-align:center; }
+	.mobile-ctc a { font-size:27px;font-weight:600;font-family: 'Work Sans', sans-serif;color:#f9f2e8; }
+	.mobile-ctc a.cta-btn { background-color:#f9f2e8;padding:8px 15px 8px 15px;border-radius:3px;color:#444;font-size:16px;text-transform:uppercase;font-weight:600; }
+	#cshero-menu-mobile .hamb-mob-icon { font-size:50px !important;color:#f9f2e8; }
+}
+@media (max-width:860px) {
+	.entry-content { padding:0 15px 0 15px; }
+	#cshero-header .col-md-2 { width:85% !important; }
+	#cshero-menu-mobile .hamb-mob-icon { font-size:50px !important;color:#f9f2e8; }
+		.mcs-item { width:30% !important;}
+	.mcs-caption { bottom:70px !important;padding:15px 0;font-family:Taviraj;font-size:17px !important;font-weight:300;background-color:rgba(36,43,52,0.8) !important;  }
+	
+}
+@media (max-width:600px) {
+	.bg-image { background-image:unset !important; background-color:#f9f2e8 !important; }
+	.mcs-item { width:50% !important;}
+	.mcs-caption { bottom:70px !important;padding:15px 0;font-family:Taviraj;font-size:17px !important;font-weight:300;background-color:rgba(36,43,52,0.8) !important;  }
+	.entry-content .container img.alignleft { width:100%; }
+		.entry-content .container img.alignright { width:100%; }
+
+}
+@media (max-width:580px) {
+	body .entry-content { font-size:15px;line-height:26px; }
+	#cshero-header-navigation { margin-top:0px; }
+	#cshero-header .col-md-2 { width:80% !important; }
+	#cshero-menu-mobile .hamb-mob-icon { font-size:40px !important;color:#f9f2e8; }
+	.bg-image { background-image:unset !important; background-color:#f9f2e8 !important; }
+	.footer-logo .leventis-logo img { max-width:90%; }
+	.footer-wrapper .footer-phone { margin-bottom:20px; }
+	.footer-wrapper .footer-phone, .footer-wrapper .contact-btn { width:100%;float:none;text-align:center; }
+	.copyright .copyright-left, .copyright .copyright-right { width:100%;float:none;text-align:center; }
+		.mcs-item { width:100% !important;}
+	.mcs-caption { bottom:70px !important;padding:15px 0;font-family:Taviraj;font-size:17px !important;font-weight:300;background-color:rgba(36,43,52,0.8) !important;  }
+	.entry-content .container img.alignleft { width:100%; }
+	.entry-content .container img.alignright { width:100%; }
+}
+
+.main-navigation .menu-main-menu li .cs-menu-toggle { display:none !important; }
+#cshero-header-navigation .main-navigation, #cshero-header-navigation .cshero-header-cart-search { overflow:hidden; }
+
+@media (max-width:400px) {
+	.bg-image { background-image:unset !important; background-color:#f9f2e8 !important; }
+	.mcs-item { width:100% !important;}
+	.mcs-caption { bottom:70px !important;padding:15px 0;font-family:Taviraj;font-size:17px !important;font-weight:300;background-color:rgba(36,43,52,0.8) !important;  }
+	.entry-content .container img.alignleft { width:100%; }
+	.entry-content .container img.alignright { width:100%; }
+}
+
